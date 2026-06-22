@@ -1,0 +1,4 @@
+nie_synchronizuj/
+venv/
+__pycache__/
+*.pyc
