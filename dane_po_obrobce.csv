@@ -1,0 +1,50 @@
+pojazd: Toyota ile: 40
+pojazd: Chrysler ile: 38
+pojazd: Honda ile: 26
+pojazd: Dacia ile: 29
+pojazd: Volvo ile: 35
+pojazd: Mazda ile: 38
+pojazd: Volswagen ile: 41
+pojazd: Citroen ile: 28
+pojazd: Mercedes ile: 36
+pojazd: Peugeot ile: 29
+pojazd: Daewoo ile: 40
+pojazd: BMW ile: 37
+pojazd: Renault ile: 27
+pojazd: Kia ile: 41
+pojazd: Alfa Romeo ile: 39
+pojazd: Fiat ile: 36
+pojazd: Seat ile: 38
+pojazd: Opel ile: 42
+pojazd: Ford ile: 27
+pojazd: Chevrolet ile: 36
+pojazd: Skoda ile: 38
+pojazd: Audi ile: 33
+pojazd: Aston Martin ile: 25
+--------------dane z PrettyTable jako CSV┌──────────────┬─────┐
+│     Mrka     │ Ile │
+├──────────────┼─────┤
+│    Toyota    │  40 │
+│   Chrysler   │  38 │
+│    Honda     │  26 │
+│    Dacia     │  29 │
+│    Volvo     │  35 │
+│    Mazda     │  38 │
+│  Volswagen   │  41 │
+│   Citroen    │  28 │
+│   Mercedes   │  36 │
+│   Peugeot    │  29 │
+│    Daewoo    │  40 │
+│     BMW      │  37 │
+│   Renault    │  27 │
+│     Kia      │  41 │
+│  Alfa Romeo  │  39 │
+│     Fiat     │  36 │
+│     Seat     │  38 │
+│     Opel     │  42 │
+│     Ford     │  27 │
+│  Chevrolet   │  36 │
+│    Skoda     │  38 │
+│     Audi     │  33 │
+│ Aston Martin │  25 │
+└──────────────┴─────┘

@@ -1,0 +1,800 @@
+﻿LP;Marka pojazdu;Cena netto;Data produkcji;Rodzaj paliwa;Typ nadwozia;Kolor;Lokalizacja;Aktualny przebieg;Historia pojazdu;Skrzynia biegów
+1;Toyota;144674;14.11.2011;Benzyna;Hatchback;Wiśniowy;Podlaskie;292165;Garażowany;Automatyczna
+2;Chrysler;115017;08.11.2017;Olej napedowy;Kombi;Srebrny;Mazowieckie;140124;Bezwypadkowy;Automatyczna
+3;Honda;146530;12.07.2021;Olej napedowy;Sedan;Brązowy;Pomorskie;96350;Serwisowany w ASO;Automatyczna
+4;Dacia;21537;30.05.2013;Olej napedowy;Kombi;Pomarańczowy;Podkarpackie;252980;Pierwszy własciciel;Manualna
+5;Honda;110567;01.01.2011;LPG;Hatchback;Czerwony;Lubelskie;84961;Serwisowany w ASO;Manualna
+6;Volvo;128783;18.07.2013;Olej napedowy;Kombi;Różowy;Mazowieckie;296526;Pierwszy własciciel;Manualna
+7;Toyota;45069;12.06.2019;Benzyna;Sedan;Różowy;Lubuskie;141273;Garażowany;Manualna
+8;Mazda;141784;02.07.2012;LPG;Hatchback;Biały;Podlaskie;90817;Pierwszy własciciel;Automatyczna
+9;Volswagen;118147;30.04.2011;LPG;Sedan;Brązowy;Łódzkie;177605;Pierwszy własciciel;Manualna
+10;Citroen;28238;26.12.2019;LPG;Kombi;Fioletowy;Wielkopolskie;187016;Bezwypadkowy;Automatyczna
+11;Mercedes;87301;16.05.2019;LPG;Sedan;Złoty;Świętokrzyskie;194884;Serwisowany w ASO;Automatyczna
+12;Peugeot;112951;12.03.2013;Olej napedowy;Sedan;Czarny;Mazowieckie;248957;Serwisowany w ASO;Manualna
+13;Daewoo;68498;07.04.2022;LPG;Kombi;Niebieski;Kujawsko-pomorskie;184256;Bezwypadkowy;Manualna
+14;Toyota;133549;25.01.2011;Olej napedowy;Sedan;Żółty;Lubelskie;119678;Serwisowany w ASO;Automatyczna
+15;BMW;28162;27.10.2019;Benzyna;Kombi;Żółty;Świętokrzyskie;107452;Pierwszy własciciel;Automatyczna
+16;Renault;64986;29.10.2010;Olej napedowy;Hatchback;Żółty;Świętokrzyskie;232052;Bezwypadkowy;Automatyczna
+17;Volvo;48330;23.10.2023;LPG;Kombi;Złoty;Świętokrzyskie;232820;Garażowany;Manualna
+18;Kia;135835;12.01.2018;Benzyna;Kombi;Biały;Pomorskie;156388;Bezwypadkowy;Manualna
+19;Volswagen;65219;26.01.2014;Benzyna;Sedan;Brązowy;Pomorskie;201185;Serwisowany w ASO;Automatyczna
+20;Alfa Romeo;141934;09.09.2013;Benzyna;Kombi;Szary;Dolnośląskie;116687;Pierwszy własciciel;Automatyczna
+21;Volvo;115176;14.11.2010;Benzyna;Kombi;Brązowy;Świętokrzyskie;118077;Garażowany;Automatyczna
+22;Fiat;50650;19.10.2023;Olej napedowy;Hatchback;Biały;Łódzkie;249947;Pierwszy własciciel;Automatyczna
+23;Seat;100130;01.11.2010;Olej napedowy;Hatchback;Brązowy;Zachodniopomorskie;91511;Bezwypadkowy;Manualna
+24;BMW;64039;23.11.2012;Olej napedowy;Kombi;Brązowy;Łódzkie;182468;Bezwypadkowy;Automatyczna
+25;Toyota;49739;19.08.2020;LPG;Sedan;Srebrny;Łódzkie;153651;Serwisowany w ASO;Manualna
+26;Opel;131358;11.05.2018;Benzyna;Sedan;Czerwony;Małopolskie;289433;Pierwszy własciciel;Automatyczna
+27;Ford;57306;04.07.2012;LPG;Hatchback;Wiśniowy;Dolnośląskie;265677;Bezwypadkowy;Automatyczna
+28;Fiat;128358;06.07.2014;Olej napedowy;Kombi;Pomarańczowy;Lubuskie;224925;Serwisowany w ASO;Manualna
+29;Chevrolet;27310;07.01.2011;Benzyna;Sedan;Biały;Małopolskie;164277;Pierwszy własciciel;Automatyczna
+30;BMW;20612;29.08.2013;Olej napedowy;Sedan;Czerwony;Świętokrzyskie;95154;Serwisowany w ASO;Manualna
+31;Mercedes;27153;04.10.2016;Benzyna;Hatchback;Różowy;Mazowieckie;83857;Serwisowany w ASO;Manualna
+32;Skoda;45851;24.08.2016;LPG;Kombi;Srebrny;Podlaskie;102443;Serwisowany w ASO;Automatyczna
+33;Mercedes;62849;29.01.2011;LPG;Hatchback;Beżowy;Lubelskie;227155;Bezwypadkowy;Manualna
+34;Chrysler;41715;16.10.2019;Benzyna;Kombi;Zielony;Opolskie;213933;Bezwypadkowy;Automatyczna
+35;Audi;53677;31.10.2014;Olej napedowy;Sedan;Szary;Mazowieckie;140964;Bezwypadkowy;Automatyczna
+36;Volswagen;48246;06.08.2013;Olej napedowy;Kombi;Czerwony;Wielkopolskie;101718;Serwisowany w ASO;Automatyczna
+37;Mazda;27214;02.11.2021;LPG;Kombi;Zielony;Małopolskie;99833;Bezwypadkowy;Automatyczna
+38;Chevrolet;132648;06.01.2021;Olej napedowy;Sedan;Beżowy;Śląskie;257663;Serwisowany w ASO;Manualna
+39;Honda;139949;13.04.2019;Benzyna;Hatchback;Grafitowy;Mazowieckie;216519;Pierwszy własciciel;Manualna
+40;Dacia;142377;08.11.2022;Benzyna;Kombi;Pomarańczowy;Lubuskie;218337;Serwisowany w ASO;Automatyczna
+41;Volvo;87703;05.10.2020;LPG;Kombi;Żółty;Pomorskie;75535;Garażowany;Automatyczna
+42;Citroen;55050;16.05.2016;Benzyna;Hatchback;Niebieski;Małopolskie;119874;Serwisowany w ASO;Manualna
+43;Alfa Romeo;36642;21.08.2010;LPG;Kombi;Czerwony;Śląskie;251686;Bezwypadkowy;Manualna
+44;Opel;20883;10.05.2022;LPG;Kombi;Biały;Łódzkie;203674;Serwisowany w ASO;Automatyczna
+45;Skoda;23004;01.01.2019;Olej napedowy;Sedan;Szary;Łódzkie;79419;Serwisowany w ASO;Automatyczna
+46;Dacia;135357;04.02.2022;Olej napedowy;Kombi;Pomarańczowy;Podlaskie;241679;Serwisowany w ASO;Automatyczna
+47;Fiat;132174;05.09.2022;LPG;Sedan;Pomarańczowy;Dolnośląskie;267999;Serwisowany w ASO;Automatyczna
+48;Fiat;64557;19.07.2017;Benzyna;Sedan;Beżowy;Podlaskie;243172;Garażowany;Automatyczna
+49;Honda;54968;21.10.2011;Benzyna;Kombi;Niebieski;Kujawsko-pomorskie;264912;Serwisowany w ASO;Manualna
+50;Volvo;46009;04.02.2016;LPG;Sedan;Bordowy;Pomorskie;100426;Serwisowany w ASO;Manualna
+51;Opel;28123;03.12.2010;Benzyna;Kombi;Fioletowy;Lubuskie;78631;Garażowany;Manualna
+52;Kia;30061;09.07.2023;Benzyna;Kombi;Pomarańczowy;Pomorskie;205904;Garażowany;Automatyczna
+53;Aston Martin;43508;09.07.2018;Olej napedowy;Kombi;Srebrny;Lubuskie;50154;Serwisowany w ASO;Automatyczna
+54;Peugeot;136567;14.11.2010;Olej napedowy;Kombi;Różowy;Lubelskie;163648;Pierwszy własciciel;Automatyczna
+55;BMW;123904;13.05.2023;LPG;Sedan;Srebrny;Wielkopolskie;99886;Serwisowany w ASO;Manualna
+56;Kia;87969;28.06.2018;Olej napedowy;Hatchback;Pomarańczowy;Łódzkie;186492;Serwisowany w ASO;Manualna
+57;Peugeot;44479;20.10.2015;Benzyna;Sedan;Czerwony;Świętokrzyskie;67882;Pierwszy własciciel;Automatyczna
+58;Kia;123657;11.12.2012;LPG;Hatchback;Czerwony;Opolskie;247124;Garażowany;Manualna
+59;Chrysler;81977;27.11.2022;Benzyna;Kombi;Wiśniowy;Pomorskie;236552;Garażowany;Automatyczna
+60;Fiat;33167;13.12.2018;Olej napedowy;Hatchback;Czerwony;Pomorskie;53297;Bezwypadkowy;Manualna
+61;Citroen;96833;31.07.2021;Benzyna;Hatchback;Brązowy;Lubuskie;184697;Pierwszy własciciel;Manualna
+62;Aston Martin;94639;28.01.2013;Benzyna;Hatchback;Biały;Opolskie;178223;Pierwszy własciciel;Manualna
+63;Opel;39726;19.08.2012;Benzyna;Sedan;Wiśniowy;Dolnośląskie;242742;Bezwypadkowy;Manualna
+64;Toyota;98121;16.01.2023;LPG;Sedan;Szary;Lubuskie;275883;Garażowany;Manualna
+65;Fiat;47503;24.08.2023;Olej napedowy;Hatchback;Bordowy;Warmińsko-mazurskie;229829;Pierwszy własciciel;Manualna
+66;Audi;101477;09.01.2014;Benzyna;Hatchback;Żółty;Dolnośląskie;120141;Bezwypadkowy;Manualna
+67;Citroen;67925;27.02.2011;Benzyna;Hatchback;Niebieski;Świętokrzyskie;296383;Pierwszy własciciel;Manualna
+68;Ford;123049;11.01.2012;LPG;Kombi;Złoty;Śląskie;98867;Pierwszy własciciel;Manualna
+69;Mazda;92381;21.11.2011;Benzyna;Hatchback;Złoty;Pomorskie;50939;Pierwszy własciciel;Manualna
+70;Seat;40398;20.04.2013;Benzyna;Kombi;Czerwony;Wielkopolskie;163246;Serwisowany w ASO;Automatyczna
+71;BMW;79789;11.11.2015;LPG;Hatchback;Brązowy;Łódzkie;172873;Serwisowany w ASO;Automatyczna
+72;Kia;64462;27.09.2011;LPG;Hatchback;Złoty;Warmińsko-mazurskie;71663;Bezwypadkowy;Automatyczna
+73;Mazda;96431;19.07.2017;Benzyna;Sedan;Zielony;Wielkopolskie;51649;Pierwszy własciciel;Automatyczna
+74;Ford;59420;29.08.2022;Benzyna;Kombi;Żółty;Zachodniopomorskie;239966;Serwisowany w ASO;Manualna
+75;Mazda;69873;06.05.2019;Benzyna;Kombi;Niebieski;Podlaskie;174460;Serwisowany w ASO;Manualna
+76;Dacia;111684;13.09.2015;LPG;Hatchback;Złoty;Warmińsko-mazurskie;256963;Pierwszy własciciel;Manualna
+77;Audi;11111;27.03.2015;Benzyna;Hatchback;Srebrny;Śląskie;293670;Bezwypadkowy;Automatyczna
+78;Volvo;125532;07.05.2021;Benzyna;Kombi;Różowy;Lubuskie;73046;Pierwszy własciciel;Manualna
+79;Citroen;13109;02.03.2015;Benzyna;Sedan;Niebieski;Lubuskie;219152;Serwisowany w ASO;Manualna
+80;Alfa Romeo;140381;07.06.2011;Olej napedowy;Sedan;Czerwony;Podkarpackie;245401;Bezwypadkowy;Automatyczna
+81;Chrysler;141415;30.11.2010;LPG;Sedan;Niebieski;Warmińsko-mazurskie;76928;Pierwszy własciciel;Automatyczna
+82;Opel;29094;23.06.2022;Olej napedowy;Kombi;Złoty;Ślaskie;272491;Garażowany;Manualna
+83;Skoda;97034;28.02.2014;LPG;Kombi;Różowy;Lubuskie;183318;Bezwypadkowy;Manualna
+84;Alfa Romeo;32060;15.12.2010;Benzyna;Sedan;Niebieski;Lubelskie;51199;Serwisowany w ASO;Automatyczna
+85;Mazda;42421;16.02.2010;Benzyna;Hatchback;Grafitowy;Małopolskie;129433;Garażowany;Manualna
+86;Volswagen;50144;05.05.2013;LPG;Hatchback;Różowy;Warmińsko-mazurskie;134649;Garażowany;Manualna
+87;Opel;81263;11.12.2015;Benzyna;Hatchback;Szary;Małopolskie;226342;Pierwszy własciciel;Automatyczna
+88;Chevrolet;20590;04.06.2019;Olej napedowy;Kombi;Złoty;Dolnośląskie;99022;Serwisowany w ASO;Automatyczna
+89;Volswagen;147446;19.12.2020;Benzyna;Kombi;Czerwony;Dolnośląskie;81742;Serwisowany w ASO;Automatyczna
+90;Chevrolet;139287;14.12.2019;Olej napedowy;Kombi;Fioletowy;Warmińsko-mazurskie;135458;Garażowany;Automatyczna
+91;Toyota;22889;08.11.2011;Olej napedowy;Hatchback;Granatowy;Śląskie;281027;Pierwszy własciciel;Manualna
+92;Skoda;114010;10.12.2019;LPG;Sedan;Pomarańczowy;Zachodniopomorskie;155939;Serwisowany w ASO;Automatyczna
+93;Chrysler;72237;23.09.2013;Benzyna;Sedan;Grafitowy;Lubuskie;58823;Serwisowany w ASO;Manualna
+94;Dacia;83904;25.04.2013;Benzyna;Sedan;Czarny;Kujawsko-pomorskie;244100;Pierwszy własciciel;Manualna
+95;Skoda;76862;08.09.2013;LPG;Sedan;Zielony;Śląskie;245818;Pierwszy własciciel;Automatyczna
+96;Audi;137100;15.10.2015;Olej napedowy;Sedan;Granatowy;Łódzkie;164592;Garażowany;Manualna
+97;Kia;87009;06.09.2012;Olej napedowy;Sedan;Brązowy;Dolnośląskie;80296;Garażowany;Manualna
+98;BMW;42309;11.09.2014;Olej napedowy;Sedan;Wiśniowy;Opolskie;160066;Bezwypadkowy;Automatyczna
+99;BMW;81338;18.05.2014;Olej napedowy;Hatchback;Grafitowy;Małopolskie;286001;Pierwszy własciciel;Manualna
+100;Renault;89260;09.05.2011;Olej napedowy;Hatchback;Czarny;Warmińsko-mazurskie;224733;Garażowany;Automatyczna
+101;Renault;68043;19.06.2016;Benzyna;Hatchback;Biały;Kujawsko-pomorskie;144630;Bezwypadkowy;Manualna
+102;Volswagen;113935;18.08.2017;LPG;Kombi;Żółty;Zachodniopomorskie;182199;Pierwszy własciciel;Automatyczna
+103;Seat;144515;11.10.2015;LPG;Hatchback;Biały;Pomorskie;280255;Bezwypadkowy;Automatyczna
+104;Alfa Romeo;116543;04.07.2020;LPG;Sedan;Wiśniowy;Pomorskie;248752;Bezwypadkowy;Automatyczna
+105;Fiat;120248;06.06.2022;Benzyna;Sedan;Brązowy;Podkarpackie;213402;Serwisowany w ASO;Automatyczna
+106;Audi;32540;17.09.2012;Olej napedowy;Kombi;Bordowy;Pomorskie;114659;Serwisowany w ASO;Automatyczna
+107;Volvo;149561;13.12.2019;LPG;Kombi;Czarny;Wielkopolskie;111697;Bezwypadkowy;Manualna
+108;Volswagen;42657;20.09.2011;Olej napedowy;Kombi;Czarny;Świętokrzyskie;158330;Garażowany;Manualna
+109;Chevrolet;16540;11.10.2020;Benzyna;Sedan;Różowy;Wielkopolskie;155860;Pierwszy własciciel;Manualna
+110;Peugeot;81744;25.10.2019;LPG;Sedan;Fioletowy;Lubelskie;183290;Serwisowany w ASO;Manualna
+111;Chrysler;96289;11.12.2023;Benzyna;Sedan;Granatowy;Łódzkie;146583;Bezwypadkowy;Automatyczna
+112;Opel;61770;10.05.2010;LPG;Hatchback;Brązowy;Dolnośląskie;129099;Bezwypadkowy;Manualna
+113;Chevrolet;113437;26.06.2012;LPG;Sedan;Bordowy;Pomorskie;70385;Bezwypadkowy;Automatyczna
+114;Mazda;122992;21.11.2017;Olej napedowy;Sedan;Grafitowy;Małopolskie;219787;Bezwypadkowy;Manualna
+115;Kia;145178;24.06.2021;LPG;Kombi;Beżowy;Małopolskie;66048;Pierwszy własciciel;Automatyczna
+116;Daewoo;116286;20.02.2015;Olej napedowy;Sedan;Beżowy;Podkarpackie;156124;Garażowany;Automatyczna
+117;Peugeot;10910;05.09.2023;Benzyna;Sedan;Beżowy;Zachodniopomorskie;260926;Serwisowany w ASO;Manualna
+118;Mercedes;146932;24.02.2020;Benzyna;Sedan;Srebrny;Łódzkie;297060;Serwisowany w ASO;Automatyczna
+119;Volvo;39610;26.12.2018;Benzyna;Sedan;Biały;Warmińsko-mazurskie;162212;Serwisowany w ASO;Automatyczna
+120;Skoda;47970;23.10.2020;Olej napedowy;Sedan;Brązowy;Zachodniopomorskie;51053;Pierwszy własciciel;Manualna
+121;Citroen;86076;09.06.2018;Olej napedowy;Kombi;Czarny;Zachodniopomorskie;222144;Pierwszy własciciel;Automatyczna
+122;BMW;66982;07.05.2018;LPG;Sedan;Biały;Pomorskie;98040;Garażowany;Automatyczna
+123;Citroen;49233;15.10.2020;Benzyna;Kombi;Granatowy;Łódzkie;278881;Serwisowany w ASO;Manualna
+124;Chevrolet;105640;08.07.2014;Olej napedowy;Hatchback;Srebrny;Podkarpackie;183265;Pierwszy własciciel;Automatyczna
+125;Fiat;112100;03.11.2016;Olej napedowy;Hatchback;Szary;Śląskie;242693;Serwisowany w ASO;Manualna
+126;Honda;27434;27.11.2018;Benzyna;Sedan;Srebrny;Warmińsko-mazurskie;173815;Bezwypadkowy;Automatyczna
+127;Toyota;118277;28.09.2015;Olej napedowy;Kombi;Fioletowy;Świętokrzyskie;299776;Pierwszy własciciel;Manualna
+128;Daewoo;76284;14.10.2014;Benzyna;Hatchback;Granatowy;Dolnośląskie;267951;Garażowany;Automatyczna
+129;Audi;32967;27.05.2011;Benzyna;Sedan;Srebrny;Śląskie;90138;Serwisowany w ASO;Automatyczna
+130;Opel;21328;20.10.2018;LPG;Kombi;Niebieski;Lubelskie;98380;Garażowany;Automatyczna
+131;Skoda;35204;21.09.2013;Olej napedowy;Sedan;Zielony;Łódzkie;55533;Bezwypadkowy;Manualna
+132;Seat;59292;09.11.2020;LPG;Kombi;Brązowy;Łódzkie;191089;Bezwypadkowy;Manualna
+133;Alfa Romeo;25696;17.10.2019;Olej napedowy;Sedan;Żółty;Wielkopolskie;291265;Serwisowany w ASO;Manualna
+134;Toyota;105142;07.08.2022;Benzyna;Sedan;Granatowy;Kujawsko-pomorskie;102246;Garażowany;Automatyczna
+135;Ford;146502;08.08.2014;LPG;Sedan;Zielony;Kujawsko-pomorskie;235711;Garażowany;Manualna
+136;Fiat;124002;15.05.2018;Benzyna;Kombi;Brązowy;Zachodniopomorskie;137392;Pierwszy własciciel;Automatyczna
+137;Opel;28944;30.08.2019;LPG;Kombi;Niebieski;Pomorskie;154940;Serwisowany w ASO;Manualna
+138;Opel;41667;09.04.2023;Olej napedowy;Sedan;Złoty;Warmińsko-mazurskie;228763;Pierwszy własciciel;Manualna
+139;BMW;125637;09.03.2013;Benzyna;Kombi;Biały;Podlaskie;203351;Serwisowany w ASO;Automatyczna
+140;Fiat;98661;09.04.2016;Benzyna;Hatchback;Wiśniowy;Warmińsko-mazurskie;99754;Bezwypadkowy;Manualna
+141;Skoda;33250;16.01.2012;LPG;Sedan;Bordowy;Podlaskie;294434;Bezwypadkowy;Automatyczna
+142;Daewoo;110045;29.12.2023;LPG;Kombi;Fioletowy;Kujawsko-pomorskie;276190;Serwisowany w ASO;Manualna
+143;Chrysler;70091;30.10.2017;LPG;Hatchback;Bordowy;Świętokrzyskie;295195;Garażowany;Manualna
+144;Kia;59397;28.11.2012;Olej napedowy;Sedan;Pomarańczowy;Łodzkie;274043;Pierwszy własciciel;Manualna
+145;Chevrolet;28120;14.05.2022;Olej napedowy;Hatchback;Beżowy;Małopolskie;297127;Serwisowany w ASO;Automatyczna
+146;Chevrolet;47107;13.06.2018;LPG;Kombi;Złoty;Świętokrzyskie;53290;Bezwypadkowy;Manualna
+147;Mercedes;73596;18.05.2015;LPG;Hatchback;Brązowy;Świętokrzyskie;192974;Pierwszy własciciel;Automatyczna
+148;Skoda;114489;28.08.2017;Benzyna;Sedan;Złoty;Opolskie;226814;Bezwypadkowy;Manualna
+149;Ford;85321;08.01.2021;Olej napedowy;Kombi;Grafitowy;Kujawsko-pomorskie;286462;Garażowany;Automatyczna
+150;Fiat;27481;02.05.2012;LPG;Sedan;Grafitowy;Dolnośląskie;143638;Garażowany;Manualna
+151;Dacia;27693;26.04.2012;Benzyna;Kombi;Zielony;Mazowieckie;113488;Bezwypadkowy;Manualna
+152;Chrysler;101858;28.02.2013;LPG;Kombi;Biały;Mazowieckie;73585;Garażowany;Manualna
+153;Volswagen;44190;10.03.2017;Benzyna;Hatchback;Szary;Kujawsko-pomorskie;157666;Serwisowany w ASO;Automatyczna
+154;Citroen;120551;15.02.2018;Olej napedowy;Hatchback;Różowy;Małopolskie;217062;Garażowany;Manualna
+155;Aston Martin;115912;18.08.2011;Olej napedowy;Hatchback;Wiśniowy;Lubuskie;229600;Pierwszy własciciel;Automatyczna
+156;Toyota;29443;02.03.2015;Benzyna;Kombi;Bordowy;Pomorskie;286114;Serwisowany w ASO;Automatyczna
+157;Citroen;14940;08.10.2010;Olej napedowy;Kombi;Szary;Warmińsko-mazurskie;174953;Garażowany;Manualna
+158;Aston Martin;124356;11.07.2016;Benzyna;Hatchback;Fioletowy;Wielkopolskie;93957;Bezwypadkowy;Automatyczna
+159;Skoda;17670;23.11.2021;Olej napedowy;Sedan;Srebrny;Opolskie;91442;Bezwypadkowy;Manualna
+160;Aston Martin;104806;05.07.2018;LPG;Sedan;Czerwony;Podkarpackie;245057;Serwisowany w ASO;Automatyczna
+161;BMW;63508;26.06.2015;Benzyna;Kombi;Niebieski;Pomorskie;107810;Bezwypadkowy;Automatyczna
+162;Renault;74991;07.09.2014;Benzyna;Sedan;Żółty;Mazowieckie;250486;Garażowany;Automatyczna
+163;Fiat;149028;03.01.2022;Benzyna;Hatchback;Różowy;Wielkopolskie;140566;Serwisowany w ASO;Manualna
+164;Peugeot;145493;26.02.2016;Olej napedowy;Sedan;Różowy;Świętokrzyskie;276941;Bezwypadkowy;Automatyczna
+165;Chrysler;26596;23.03.2022;LPG;Hatchback;Beżowy;Kujawsko-pomorskie;276025;Pierwszy własciciel;Manualna
+166;Honda;62208;17.08.2016;Olej napedowy;Hatchback;Zielony;Łódzkie;104774;Pierwszy własciciel;Automatyczna
+167;Renault;39915;20.05.2010;LPG;Kombi;Grafitowy;Śląskie;118288;Serwisowany w ASO;Manualna
+168;Alfa Romeo;102883;10.04.2016;LPG;Hatchback;Pomarańczowy;Podkarpackie;141845;Garażowany;Automatyczna
+169;Volvo;50020;21.08.2014;LPG;Sedan;Srebrny;Lubuskie;55651;Garażowany;Manualna
+170;Kia;21695;03.08.2023;Benzyna;Kombi;Grafitowy;Śląskie;138357;Garażowany;Automatyczna
+171;Mercedes;115156;06.01.2015;Benzyna;Sedan;Srebrny;Zachodniopomorskie;74482;Garażowany;Manualna
+172;Daewoo;102231;15.08.2011;Benzyna;Sedan;Grafitowy;Opolskie;160371;Pierwszy własciciel;Automatyczna
+173;Volswagen;76058;28.07.2019;Benzyna;Kombi;Żółty;Łódzkie;231643;Pierwszy własciciel;Manualna
+174;Mazda;113232;12.06.2015;Olej napedowy;Hatchback;Pomarańczowy;Podlaskie;86474;Bezwypadkowy;Manualna
+175;Peugeot;107996;16.04.2013;Benzyna;Kombi;Niebieski;Podkarpackie;148502;Garażowany;Automatyczna
+176;Fiat;88516;01.01.2023;Benzyna;Hatchback;Pomarańczowy;Podlaskie;74371;Pierwszy własciciel;Automatyczna
+177;Skoda;59484;23.03.2019;LPG;Sedan;Srebrny;Pomorskie;86092;Garażowany;Automatyczna
+178;Dacia;67215;01.11.2020;Olej napedowy;Sedan;Bordowy;Kujawsko-pomorskie;168076;Bezwypadkowy;Automatyczna
+179;BMW;93388;07.03.2011;Benzyna;Kombi;Czerwony;Łódzkie;173100;Bezwypadkowy;Manualna
+180;Skoda;117146;28.01.2021;LPG;Hatchback;Biały;Kujawsko-pomorskie;276443;Bezwypadkowy;Automatyczna
+181;Chrysler;44250;13.02.2012;Olej napedowy;Hatchback;Czarny;Zachodniopomorskie;178301;Bezwypadkowy;Manualna
+182;Volvo;125993;20.06.2014;Olej napedowy;Kombi;Granatowy;Mazowieckie;160456;Pierwszy własciciel;Automatyczna
+183;Seat;126755;05.11.2020;LPG;Hatchback;Fioletowy;Łódzkie;280977;Garażowany;Automatyczna
+184;Alfa Romeo;106426;21.12.2010;Olej napedowy;Hatchback;Szary;Łódzkie;137131;Serwisowany w ASO;Automatyczna
+185;Alfa Romeo;148472;17.04.2010;Benzyna;Hatchback;Złoty;Lubelskie;168687;Bezwypadkowy;Automatyczna
+186;Renault;20098;23.03.2014;Benzyna;Kombi;Czerwony;Wielkopolskie;295152;Bezwypadkowy;Automatyczna
+187;Skoda;48266;19.09.2011;Benzyna;Kombi;Granatowy;Lubelskie;67120;Garażowany;Manualna
+188;Seat;94968;18.02.2014;Benzyna;Kombi;Pomarańczowy;Podlaskie;50819;Garażowany;Manualna
+189;Audi;98314;09.01.2018;Benzyna;Hatchback;Czarny;Podlaskie;118797;Garażowany;Manualna
+190;Volswagen;69057;21.12.2020;Benzyna;Kombi;Czarny;Opolskie;179072;Serwisowany w ASO;Manualna
+191;Mazda;34160;21.08.2017;Benzyna;Kombi;Granatowy;Pomorskie;66633;Garażowany;Manualna
+192;Renault;105142;08.11.2023;Olej napedowy;Kombi;Czerwony;Zachodniopomorskie;131834;Pierwszy własciciel;Manualna
+193;Kia;41140;16.05.2014;Olej napedowy;Kombi;Grafitowy;Opolskie;266327;Pierwszy własciciel;Manualna
+194;Opel;116657;25.07.2019;LPG;Sedan;Brązowy;Lubuskie;292791;Pierwszy własciciel;Automatyczna
+195;Chrysler;138590;18.03.2017;Olej napedowy;Hatchback;Żółty;Świętokrzyskie;156178;Serwisowany w ASO;Manualna
+196;Opel;15696;30.05.2018;Benzyna;Hatchback;Niebieski;Opolskie;181857;Pierwszy własciciel;Manualna
+197;Fiat;106620;26.05.2017;Benzyna;Kombi;Bordowy;Wielkopolskie;116096;Serwisowany w ASO;Manualna
+198;Daewoo;69839;17.10.2012;LPG;Sedan;Brązowy;Śląskie;257332;Garażowany;Manualna
+199;Aston Martin;36322;12.12.2014;Olej napedowy;Hatchback;Wiśniowy;Zachodniopomorskie;55240;Pierwszy własciciel;Manualna
+200;Skoda;84839;23.05.2017;Benzyna;Kombi;Różowy;Opolskie;265324;Serwisowany w ASO;Manualna
+201;Fiat;10935;06.09.2017;Benzyna;Kombi;Czarny;Zachodniopomorskie;67348;Bezwypadkowy;Automatyczna
+202;Seat;116746;27.09.2018;LPG;Kombi;Fioletowy;Łódzkie;155527;Pierwszy własciciel;Manualna
+203;Renault;59985;16.03.2010;LPG;Hatchback;Zielony;Opolskie;279974;Garażowany;Manualna
+204;Volswagen;115154;18.01.2017;Benzyna;Hatchback;Wiśniowy;Małopolskie;178292;Garażowany;Manualna
+205;Volswagen;24106;11.05.2021;Olej napedowy;Kombi;Czerwony;Mazowieckie;132826;Bezwypadkowy;Manualna
+206;Peugeot;28968;17.01.2013;LPG;Sedan;Czerwony;Mazowieckie;256740;Garażowany;Manualna
+207;Peugeot;115109;10.07.2017;LPG;Kombi;Czarny;Mazowieckie;210561;Garażowany;Manualna
+208;Aston Martin;73012;09.12.2018;Olej napedowy;Kombi;Niebieski;Łódzkie;90819;Bezwypadkowy;Automatyczna
+209;Chrysler;97624;02.03.2016;Benzyna;Sedan;Brązowy;Śląskie;93161;Serwisowany w ASO;Automatyczna
+210;Ford;83402;06.12.2022;Benzyna;Sedan;Szary;Mazowieckie;85306;Pierwszy własciciel;Automatyczna
+211;Mazda;11732;05.12.2016;Benzyna;Kombi;Bordowy;Kujawsko-pomorskie;293300;Bezwypadkowy;Automatyczna
+212;Daewoo;28235;05.05.2015;Olej napedowy;Hatchback;Złoty;Dolnośląskie;294914;Serwisowany w ASO;Automatyczna
+213;Fiat;86663;30.10.2012;Olej napedowy;Hatchback;Beżowy;Świętokrzyskie;207217;Garażowany;Manualna
+214;Citroen;60879;22.06.2018;LPG;Sedan;Złoty;Lubelskie;59193;Bezwypadkowy;Automatyczna
+215;Skoda;50452;03.10.2022;Olej napedowy;Kombi;Biały;Kujawsko-pomorskie;96805;Pierwszy własciciel;Automatyczna
+216;Mercedes;51530;16.02.2012;Benzyna;Sedan;Różowy;Opolskie;268640;Serwisowany w ASO;Automatyczna
+217;Chrysler;95151;16.10.2012;Olej napedowy;Hatchback;Wiśniowy;Pomorskie;92882;Garażowany;Automatyczna
+218;Volvo;41917;11.07.2017;Benzyna;Hatchback;Bordowy;Lubuskie;177530;Garażowany;Manualna
+219;Kia;54648;14.11.2017;Olej napedowy;Hatchback;Fioletowy;Lubuskie;255403;Pierwszy własciciel;Automatyczna
+220;Chrysler;67607;01.12.2021;Benzyna;Hatchback;Brązowy;Kujawsko-pomorskie;160657;Bezwypadkowy;Manualna
+221;Citroen;78396;28.07.2012;Benzyna;Kombi;Żółty;Podlaskie;243147;Pierwszy własciciel;Manualna
+222;Toyota;26005;16.01.2019;LPG;Hatchback;Fioletowy;Lubuskie;261282;Serwisowany w ASO;Automatyczna
+223;BMW;45393;22.04.2013;Benzyna;Kombi;Biały;Wielkopolskie;299025;Garażowany;Manualna
+224;Kia;135729;02.05.2011;LPG;Kombi;Fioletowy;Warmińsko-mazurskie;264443;Bezwypadkowy;Manualna
+225;Volvo;36833;24.11.2012;Olej napedowy;Kombi;Różowy;Opolskie;277065;Bezwypadkowy;Automatyczna
+226;Volvo;57786;25.10.2018;LPG;Kombi;Granatowy;Małopolskie;228557;Bezwypadkowy;Manualna
+227;Mercedes;141267;12.10.2013;LPG;Hatchback;Szary;Opolskie;276753;Garażowany;Automatyczna
+228;Volvo;139414;23.06.2020;Benzyna;Kombi;Biały;Łódzkie;149511;Serwisowany w ASO;Manualna
+229;Skoda;124264;03.01.2018;Olej napedowy;Sedan;Czerwony;Podlaskie;191144;Garażowany;Manualna
+230;Volswagen;33414;31.12.2021;Benzyna;Kombi;Różowy;Łódzkie;131063;Pierwszy własciciel;Automatyczna
+231;Mercedes;129980;13.04.2021;LPG;Kombi;Fioletowy;Łódzkie;88948;Bezwypadkowy;Automatyczna
+232;Kia;61940;04.04.2014;Benzyna;Hatchback;Granatowy;Dolnośląskie;136353;Bezwypadkowy;Automatyczna
+233;Kia;107287;19.01.2023;Olej napedowy;Hatchback;Wiśniowy;Podlaskie;109380;Serwisowany w ASO;Automatyczna
+234;Renault;129055;27.02.2017;Olej napedowy;Kombi;Czerwony;Pomorskie;184904;Garażowany;Automatyczna
+235;Renault;12321;20.01.2019;LPG;Kombi;Czarny;Lubuskie;99726;Garażowany;Automatyczna
+236;Opel;41667;31.07.2012;LPG;Kombi;Beżowy;Mazowieckie;107307;Bezwypadkowy;Manualna
+237;Volswagen;104233;05.11.2021;Olej napedowy;Sedan;Beżowy;Zachodniopomorskie;73131;Bezwypadkowy;Manualna
+238;Chrysler;125050;15.07.2012;Olej napedowy;Hatchback;Czerwony;Mazowieckie;173259;Garażowany;Automatyczna
+239;Renault;58307;27.11.2016;LPG;Kombi;Bordowy;Świętokrzyskie;98235;Garażowany;Manualna
+240;Mazda;25834;24.02.2018;LPG;Hatchback;Złoty;Malopolskie;254038;Garażowany;Manualna
+241;BMW;55316;25.05.2023;LPG;Sedan;Szary;Opolskie;295745;Bezwypadkowy;Manualna
+242;Audi;8497;03.10.2019;Benzyna;Sedan;Bordowy;Pomorskie;281366;Garażowany;Automatyczna
+243;Volswagen;11039;18.08.2021;Benzyna;Sedan;Pomarańczowy;Łódzkie;266147;Garażowany;Manualna
+244;Citroen;95685;09.06.2016;LPG;Sedan;Fioletowy;Śląskie;181617;Serwisowany w ASO;Manualna
+245;Citroen;118051;16.03.2017;Olej napedowy;Hatchback;Brązowy;Zachodniopomorskie;227598;Garażowany;Automatyczna
+246;Kia;30442;30.05.2023;Olej napedowy;Hatchback;Wiśniowy;Podkarpackie;51058;Garażowany;Automatyczna
+247;Peugeot;83877;25.07.2021;LPG;Kombi;Żółty;Łódzkie;137423;Bezwypadkowy;Automatyczna
+248;Renault;15188;21.03.2010;Benzyna;Hatchback;Srebrny;Opolskie;122786;Bezwypadkowy;Manualna
+249;Volswagen;54445;10.10.2016;Olej napedowy;Hatchback;Pomarańczowy;Świętokrzyskie;261666;Serwisowany w ASO;Manualna
+250;Chevrolet;28164;15.11.2015;Benzyna;Hatchback;Różowy;Mazowieckie;167557;Bezwypadkowy;Manualna
+251;Citroen;129050;10.07.2014;Olej napedowy;Kombi;Żółty;Świętokrzyskie;174811;Garażowany;Automatyczna
+252;Aston Martin;96407;28.02.2011;Olej napedowy;Kombi;Granatowy;Świętokrzyskie;166706;Garażowany;Automatyczna
+253;Chrysler;127878;10.05.2021;Olej napedowy;Sedan;Grafitowy;Podlaskie;83347;Garażowany;Manualna
+254;Seat;84151;31.07.2015;LPG;Hatchback;Niebieski;Kujawsko-pomorskie;123805;Bezwypadkowy;Manualna
+255;Mazda;80055;29.08.2016;LPG;Kombi;Srebrny;Śląskie;268354;Serwisowany w ASO;Manualna
+256;Seat;44558;18.01.2015;LPG;Kombi;Granatowy;Łódzkie;262954;Pierwszy własciciel;Automatyczna
+257;Kia;114620;15.05.2016;LPG;Kombi;Grafitowy;Lubelskie;200943;Bezwypadkowy;Manualna
+258;Toyota;98142;23.04.2015;Olej napedowy;Hatchback;Złoty;Łódzkie;292549;Bezwypadkowy;Manualna
+259;Chrysler;138202;12.08.2019;LPG;Kombi;Różowy;Mazowieckie;120654;Serwisowany w ASO;Manualna
+260;Audi;116862;04.09.2016;Olej napedowy;Kombi;Pomarańczowy;Małopolskie;207126;Garażowany;Automatyczna
+261;BMW;49304;26.05.2019;LPG;Hatchback;Biały;Lubelskie;131039;Garażowany;Manualna
+262;Fiat;75630;18.06.2016;LPG;Hatchback;Biały;Śląskie;88580;Serwisowany w ASO;Manualna
+263;Mercedes;86541;25.02.2021;Benzyna;Kombi;Srebrny;Świętokrzyskie;248642;Pierwszy własciciel;Automatyczna
+264;Opel;56769;09.02.2018;LPG;Hatchback;Beżowy;Podlaskie;266056;Pierwszy własciciel;Automatyczna
+265;Dacia;124845;09.09.2023;Benzyna;Kombi;Złoty;Kujawsko-pomorskie;169977;Bezwypadkowy;Manualna
+266;Mazda;61374;09.09.2013;Olej napedowy;Hatchback;Biały;Łódzkie;111005;Garażowany;Automatyczna
+267;Mazda;46522;16.01.2016;Olej napedowy;Kombi;Beżowy;Małopolskie;178977;Garażowany;Manualna
+268;Skoda;37526;02.01.2011;Olej napedowy;Hatchback;Zielony;Podlaskie;292321;Pierwszy własciciel;Manualna
+269;Fiat;54437;10.02.2021;Olej napedowy;Sedan;Niebieski;Pomorskie;72492;Pierwszy własciciel;Manualna
+270;Kia;62071;06.11.2012;Benzyna;Kombi;Biały;Podkarpackie;219482;Bezwypadkowy;Automatyczna
+271;BMW;57482;28.10.2014;Olej napedowy;Kombi;Srebrny;Mazowieckie;193410;Bezwypadkowy;Manualna
+272;Volswagen;37055;22.10.2012;Benzyna;Sedan;Srebrny;Świętokrzyskie;143865;Garażowany;Automatyczna
+273;Aston Martin;70079;27.04.2022;LPG;Hatchback;Granatowy;Zachodniopomorskie;108431;Bezwypadkowy;Automatyczna
+274;Toyota;91345;24.06.2014;LPG;Hatchback;Biały;Łódzkie;62348;Garażowany;Automatyczna
+275;Ford;59584;12.06.2021;Olej napedowy;Sedan;Fioletowy;Lubuskie;134093;Pierwszy własciciel;Automatyczna
+276;Mazda;136047;16.12.2016;LPG;Kombi;Srebrny;Lubuskie;192427;Bezwypadkowy;Manualna
+277;Fiat;109297;27.07.2014;Benzyna;Kombi;Czarny;Wielkopolskie;263682;Garażowany;Manualna
+278;Ford;47595;14.09.2021;Olej napedowy;Sedan;Granatowy;Podkarpackie;110037;Serwisowany w ASO;Automatyczna
+279;Mercedes;24416;24.01.2019;Benzyna;Kombi;Srebrny;Kujawsko-pomorskie;131500;Pierwszy własciciel;Manualna
+280;Seat;52068;24.05.2023;Olej napedowy;Kombi;Różowy;Wielkopolskie;224764;Pierwszy własciciel;Manualna
+281;Daewoo;56696;22.04.2012;Olej napedowy;Sedan;Fioletowy;Warmińsko-mazurskie;207975;Pierwszy własciciel;Manualna
+282;BMW;85573;31.10.2020;Benzyna;Hatchback;Czerwony;Łódzkie;248978;Pierwszy własciciel;Automatyczna
+283;Mercedes;24556;26.08.2021;LPG;Hatchback;Złoty;Wielkopolskie;55561;Serwisowany w ASO;Automatyczna
+284;Fiat;27159;03.08.2018;LPG;Hatchback;Srebrny;Podlaskie;56656;Bezwypadkowy;Manualna
+285;Dacia;91349;24.04.2010;Benzyna;Sedan;Wiśniowy;Podlaskie;175967;Bezwypadkowy;Automatyczna
+286;Seat;68338;09.06.2011;Benzyna;Hatchback;Wiśniowy;Lubelskie;163287;Garażowany;Manualna
+287;Alfa Romeo;81155;13.08.2011;Benzyna;Hatchback;Fioletowy;Śląskie;190976;Bezwypadkowy;Automatyczna
+288;Mazda;94993;30.11.2011;LPG;Sedan;Czarny;Lubuskie;253233;Pierwszy własciciel;Automatyczna
+289;Alfa Romeo;100656;20.03.2011;Olej napedowy;Hatchback;Biały;Zachodniopomorskie;286759;Pierwszy własciciel;Automatyczna
+290;Skoda;106917;17.02.2013;Olej napedowy;Kombi;Beżowy;Wielkopolskie;70931;Garażowany;Automatyczna
+291;Honda;148419;29.12.2014;LPG;Kombi;Srebrny;Wielkopolskie;222533;Garażowany;Automatyczna
+292;Mercedes;90886;04.07.2017;Benzyna;Kombi;Fioletowy;Zachodniopomorskie;132997;Bezwypadkowy;Manualna
+293;Chevrolet;98613;20.03.2019;LPG;Hatchback;Biały;Opolskie;206236;Bezwypadkowy;Manualna
+294;Mercedes;66071;19.06.2022;Olej napedowy;Kombi;Złoty;Podlaskie;185857;Bezwypadkowy;Manualna
+295;Peugeot;87934;02.09.2011;Benzyna;Sedan;Czerwony;Mazowieckie;198591;Serwisowany w ASO;Automatyczna
+296;Chevrolet;24034;13.07.2015;Benzyna;Sedan;Złoty;Mazowieckie;291261;Garażowany;Automatyczna
+297;Peugeot;55133;19.10.2018;LPG;Sedan;Czerwony;Pomorskie;250190;Serwisowany w ASO;Manualna
+298;Seat;85612;30.11.2015;Olej napedowy;Kombi;Brązowy;Pomorskie;267216;Serwisowany w ASO;Manualna
+299;Audi;102202;04.06.2015;Benzyna;Sedan;Wiśniowy;Warmińsko-mazurskie;268601;Bezwypadkowy;Automatyczna
+300;Audi;106621;01.05.2018;Benzyna;Kombi;Niebieski;Dolnośląskie;140785;Bezwypadkowy;Manualna
+301;Daewoo;59127;17.05.2023;Olej napedowy;Hatchback;Czarny;Opolskie;294517;Garażowany;Manualna
+302;Chrysler;102357;03.10.2012;Olej napedowy;Hatchback;Pomarańczowy;Podkarpackie;120306;Pierwszy własciciel;Manualna
+303;Alfa Romeo;138734;08.06.2014;LPG;Hatchback;Zielony;Lubuskie;117231;Bezwypadkowy;Manualna
+304;BMW;91907;20.03.2013;Olej napedowy;Kombi;Bordowy;Mazowieckie;95376;Pierwszy własciciel;Manualna
+305;Fiat;38327;21.09.2022;Olej napedowy;Hatchback;Czarny;Opolskie;157393;Pierwszy własciciel;Manualna
+306;Volvo;110536;01.01.2014;Benzyna;Hatchback;Złoty;Dolnośląskie;98291;Serwisowany w ASO;Manualna
+307;BMW;131316;05.01.2018;Benzyna;Kombi;Żółty;Dolnośląskie;88390;Bezwypadkowy;Manualna
+308;Seat;58211;25.09.2021;Benzyna;Sedan;Wiśniowy;Dolnośląskie;169858;Pierwszy własciciel;Automatyczna
+309;Mercedes;18204;21.07.2022;Olej napedowy;Hatchback;Szary;Dolnośląskie;299862;Pierwszy własciciel;Automatyczna
+310;Dacia;102775;22.02.2015;LPG;Sedan;Złoty;Zachodniopomorskie;58647;Serwisowany w ASO;Automatyczna
+311;BMW;104581;03.05.2023;LPG;Sedan;Złoty;Zachodniopomorskie;193125;Serwisowany w ASO;Automatyczna
+312;Opel;111768;02.08.2015;Benzyna;Hatchback;Pomarańczowy;Małopolskie;264158;Bezwypadkowy;Manualna
+313;Toyota;18624;30.04.2018;Olej napedowy;Hatchback;Beżowy;Pomorskie;168552;Bezwypadkowy;Manualna
+314;BMW;99331;28.09.2012;LPG;Hatchback;Grafitowy;Podlaskie;162162;Garażowany;Automatyczna
+315;Dacia;83040;14.11.2021;LPG;Kombi;Szary;Lubuskie;126939;Garażowany;Automatyczna
+316;Honda;85587;30.12.2022;LPG;Hatchback;Brązowy;Podkarpackie;86808;Bezwypadkowy;Manualna
+317;Kia;66995;26.12.2019;Benzyna;Sedan;Złoty;Podkarpackie;158546;Bezwypadkowy;Manualna
+318;Volvo;72958;08.01.2015;Olej napedowy;Hatchback;Zielony;Śląskie;243985;Garażowany;Automatyczna
+319;Toyota;49728;07.04.2015;Benzyna;Kombi;Czerwony;Pomorskie;77633;Serwisowany w ASO;Automatyczna
+320;Volswagen;16345;08.06.2019;Benzyna;Hatchback;Brązowy;Świętokrzyskie;206599;Serwisowany w ASO;Manualna
+321;Chrysler;116205;23.06.2010;Benzyna;Sedan;Żółty;Pomorskie;140162;Serwisowany w ASO;Manualna
+322;Opel;80452;17.10.2017;Benzyna;Hatchback;Czarny;Lubelskie;214880;Serwisowany w ASO;Automatyczna
+323;Dacia;133757;07.06.2010;Benzyna;Hatchback;Pomarańczowy;Podkarpackie;66637;Serwisowany w ASO;Automatyczna
+324;Opel;64631;03.03.2020;Benzyna;Hatchback;Bordowy;Podlaskie;275980;Bezwypadkowy;Manualna
+325;Kia;13238;03.02.2012;LPG;Hatchback;Czarny;Śląskie;56198;Garażowany;Automatyczna
+326;Fiat;63104;02.06.2022;Benzyna;Hatchback;Fioletowy;Podkarpackie;261597;Garażowany;Manualna
+327;Daewoo;14536;17.07.2013;Benzyna;Kombi;Wiśniowy;Lubelskie;147055;Serwisowany w ASO;Manualna
+328;Mercedes;80907;02.10.2013;Benzyna;Kombi;Biały;Wielkopolskie;120102;Garażowany;Manualna
+329;Honda;33380;19.07.2017;LPG;Sedan;Biały;Opolskie;162343;Pierwszy własciciel;Manualna
+330;Honda;85758;03.08.2016;LPG;Sedan;Niebieski;Pomorskie;101331;Pierwszy własciciel;Manualna
+331;BMW;148306;11.10.2021;Benzyna;Hatchback;Szary;Podkarpackie;160410;Serwisowany w ASO;Automatyczna
+332;Citroen;147537;28.10.2011;Olej napedowy;Sedan;Wiśniowy;Podlaskie;192388;Serwisowany w ASO;Manualna
+333;Citroen;101660;22.03.2020;Olej napedowy;Kombi;Biały;Śląskie;270818;Bezwypadkowy;Manualna
+334;Seat;76493;10.02.2021;Benzyna;Kombi;Granatowy;Podkarpackie;251582;Serwisowany w ASO;Manualna
+335;Volswagen;120238;25.01.2012;LPG;Sedan;Czerwony;Łódzkie;231043;Bezwypadkowy;Manualna
+336;Alfa Romeo;64486;30.10.2015;Benzyna;Kombi;Żółty;Warmińsko-mazurskie;173106;Pierwszy własciciel;Manualna
+337;Alfa Romeo;90918;09.08.2021;LPG;Hatchback;Zielony;Śląskie;75603;Serwisowany w ASO;Manualna
+338;Chrysler;26323;22.07.2012;Olej napedowy;Hatchback;Grafitowy;Warmińsko-mazurskie;97098;Garażowany;Manualna
+339;Ford;135420;25.03.2016;LPG;Hatchback;Bordowy;Kujawsko-pomorskie;198233;Serwisowany w ASO;Manualna
+340;Volswagen;42912;31.10.2017;LPG;Hatchback;Pomarańczowy;Warmińsko-mazurskie;165497;Serwisowany w ASO;Manualna
+341;Opel;144819;08.06.2018;Benzyna;Kombi;Różowy;Lubelskie;178159;Pierwszy własciciel;Manualna
+342;Peugeot;125518;17.05.2017;Benzyna;Sedan;Biały;Pomorskie;50977;Bezwypadkowy;Automatyczna
+343;Opel;122426;21.03.2011;LPG;Kombi;Wiśniowy;Zachodniopomorskie;169166;Pierwszy własciciel;Automatyczna
+344;Mercedes;29130;26.01.2021;Benzyna;Sedan;Bordowy;Mazowieckie;286618;Garażowany;Automatyczna
+345;Dacia;15567;19.06.2023;LPG;Kombi;Pomarańczowy;Warmińsko-mazurskie;248418;Serwisowany w ASO;Automatyczna
+346;Mazda;50170;31.01.2014;LPG;Kombi;Wiśniowy;Lubelskie;137193;Serwisowany w ASO;Automatyczna
+347;Fiat;66411;16.12.2013;Benzyna;Kombi;Brązowy;Lubelskie;136261;Pierwszy własciciel;Automatyczna
+348;Skoda;71668;05.11.2023;LPG;Kombi;Srebrny;Kujawsko-pomorskie;250818;Garażowany;Manualna
+349;Mercedes;65003;17.06.2011;Olej napedowy;Sedan;Niebieski;Lubelskie;191679;Serwisowany w ASO;Automatyczna
+350;Opel;89753;22.11.2019;Olej napedowy;Sedan;Granatowy;Śląskie;53258;Bezwypadkowy;Manualna
+351;Kia;96170;27.11.2010;Benzyna;Sedan;Brązowy;Podkarpackie;255082;Pierwszy własciciel;Manualna
+352;Ford;51144;07.12.2012;Benzyna;Kombi;Bordowy;Dolnośląskie;192811;Garażowany;Manualna
+353;Chrysler;74428;23.06.2021;Olej napedowy;Sedan;Grafitowy;Dolnośląskie;198249;Serwisowany w ASO;Manualna
+354;Citroen;130271;22.12.2013;Benzyna;Sedan;Szary;Wielkopolskie;231798;Garażowany;Automatyczna
+355;Kia;56841;11.09.2012;Benzyna;Sedan;Różowy;Kujawsko-pomorskie;111849;Bezwypadkowy;Automatyczna
+356;Audi;17608;19.08.2010;LPG;Sedan;Zielony;Wielkopolskie;74956;Garażowany;Manualna
+357;Chrysler;19900;15.04.2023;LPG;Sedan;Grafitowy;Wielkopolskie;282452;Pierwszy własciciel;Manualna
+358;Citroen;114342;05.09.2013;Olej napedowy;Kombi;Fioletowy;Łódzkie;245570;Serwisowany w ASO;Manualna
+359;Ford;55000;25.04.2016;Benzyna;Sedan;Beżowy;Pomorskie;116070;Bezwypadkowy;Automatyczna
+360;Opel;117480;02.06.2022;Benzyna;Kombi;Pomarańczowy;Pomorskie;141656;Pierwszy własciciel;Manualna
+361;Daewoo;66964;14.01.2012;Olej napedowy;Sedan;Żółty;Małopolskie;232575;Garażowany;Automatyczna
+362;Volvo;133000;08.08.2013;LPG;Sedan;Granatowy;Opolskie;251846;Pierwszy własciciel;Automatyczna
+363;Renault;130123;23.03.2013;Benzyna;Hatchback;Niebieski;Lubelskie;75708;Serwisowany w ASO;Automatyczna
+364;Fiat;73915;13.06.2023;LPG;Kombi;Bordowy;Lubelskie;285580;Garażowany;Automatyczna
+365;Audi;65238;29.09.2013;Benzyna;Sedan;Żółty;Łódzkie;136326;Garażowany;Manualna
+366;Opel;44816;10.02.2018;Benzyna;Kombi;Granatowy;Wielkopolskie;283889;Garażowany;Manualna
+367;Mercedes;48240;30.12.2010;LPG;Kombi;Beżowy;Łódzkie;122986;Pierwszy własciciel;Manualna
+368;Honda;46733;27.10.2015;Benzyna;Sedan;Grafitowy;Podlaskie;262556;Garażowany;Automatyczna
+369;Seat;73252;20.06.2013;LPG;Kombi;Srebrny;Podlaskie;103480;Garażowany;Automatyczna
+370;Mazda;20626;19.12.2017;Olej napedowy;Sedan;Czerwony;Łódzkie;93789;Bezwypadkowy;Manualna
+371;Citroen;117070;14.10.2012;Benzyna;Kombi;Zielony;Świętokrzyskie;81253;Garażowany;Automatyczna
+372;Skoda;132411;15.01.2023;Olej napedowy;Hatchback;Szary;Kujawsko-pomorskie;175077;Serwisowany w ASO;Manualna
+373;Kia;133811;21.02.2019;LPG;Hatchback;Srebrny;Opolskie;222127;Serwisowany w ASO;Manualna
+374;Seat;149244;02.05.2020;LPG;Kombi;Bordowy;Wielkopolskie;140379;Pierwszy własciciel;Automatyczna
+375;Mazda;87334;03.03.2017;LPG;Kombi;Złoty;Kujawsko-pomorskie;193842;Bezwypadkowy;Automatyczna
+376;Volswagen;27429;08.06.2014;LPG;Hatchback;Czarny;Warmińsko-mazurskie;224314;Garażowany;Manualna
+377;Alfa Romeo;125479;31.07.2016;Olej napedowy;Hatchback;Srebrny;Opolskie;181972;Pierwszy własciciel;Manualna
+378;Audi;121761;26.05.2015;LPG;Kombi;Srebrny;Lubelskie;250768;Pierwszy własciciel;Manualna
+379;Mercedes;103581;19.02.2018;Benzyna;Hatchback;Zielony;Śląskie;269365;Garażowany;Manualna
+380;Chrysler;71523;22.03.2018;LPG;Sedan;Pomarańczowy;Dolnośląskie;299927;Serwisowany w ASO;Automatyczna
+381;Volswagen;72354;25.04.2017;LPG;Hatchback;Żółty;Świętokrzyskie;266533;Garażowany;Automatyczna
+382;Fiat;38027;25.03.2018;Olej napedowy;Sedan;Biały;Łódzkie;233491;Garażowany;Automatyczna
+383;Toyota;120755;13.10.2023;Olej napedowy;Hatchback;Zielony;Warmińsko-mazurskie;65793;Bezwypadkowy;Manualna
+384;Mazda;142407;23.03.2021;LPG;Kombi;Różowy;Lubelskie;77139;Pierwszy własciciel;Manualna
+385;Opel;24857;24.12.2022;Olej napedowy;Sedan;Bordowy;Opolskie;219813;Serwisowany w ASO;Automatyczna
+386;Dacia;72171;13.10.2012;Olej napedowy;Hatchback;Biały;Świętokrzyskie;108753;Pierwszy własciciel;Automatyczna
+387;Honda;12022;21.07.2015;Olej napedowy;Hatchback;Fioletowy;Wielkopolskie;237768;Bezwypadkowy;Manualna
+388;Skoda;108463;29.12.2022;Benzyna;Sedan;Niebieski;Zachodniopomorskie;52984;Pierwszy własciciel;Manualna
+389;Daewoo;13806;07.09.2016;Benzyna;Sedan;Brązowy;Podkarpackie;99141;Garażowany;Manualna
+390;Mazda;84250;09.03.2012;Benzyna;Hatchback;Różowy;Dolnośląskie;96440;Serwisowany w ASO;Automatyczna
+391;Alfa Romeo;81172;13.12.2022;Olej napedowy;Sedan;Fioletowy;Lubelskie;224295;Pierwszy własciciel;Automatyczna
+392;Renault;100718;29.11.2012;Olej napedowy;Hatchback;Czerwony;Podkarpackie;99444;Garażowany;Manualna
+393;Renault;13610;23.02.2017;Benzyna;Hatchback;Bordowy;Łódzkie;142964;Garażowany;Automatyczna
+394;Alfa Romeo;121745;29.11.2015;LPG;Hatchback;Szary;Pomorskie;263816;Serwisowany w ASO;Automatyczna
+395;Daewoo;82388;12.12.2012;LPG;Hatchback;Brązowy;Zachodniopomorskie;183013;Serwisowany w ASO;Manualna
+396;Ford;138013;27.02.2015;Olej napedowy;Hatchback;Brązowy;Śląskie;77526;Garażowany;Manualna
+397;Honda;107162;26.05.2010;LPG;Kombi;Czerwony;Lubelskie;133689;Serwisowany w ASO;Manualna
+398;Audi;21915;06.01.2018;Olej napedowy;Hatchback;Srebrny;Świętokrzyskie;201830;Garażowany;Automatyczna
+399;Fiat;116782;13.12.2019;Benzyna;Kombi;Grafitowy;Warmińsko-mazurskie;269798;Serwisowany w ASO;Automatyczna
+400;Chevrolet;133666;10.04.2012;Benzyna;Hatchback;Srebrny;Warmińsko-mazurskie;173901;Bezwypadkowy;Manualna
+401;Audi;56370;30.01.2010;LPG;Hatchback;Szary;Śląskie;56841;Garażowany;Automatyczna
+402;Volswagen;112174;08.01.2020;Olej napedowy;Kombi;Wiśniowy;Lubelskie;164208;Serwisowany w ASO;Manualna
+403;Volvo;97690;14.05.2020;Benzyna;Kombi;Szary;Lubuskie;264186;Garażowany;Automatyczna
+404;Daewoo;144560;02.05.2020;Benzyna;Hatchback;Grafitowy;Opolskie;294095;Serwisowany w ASO;Manualna
+405;Alfa Romeo;99255;01.09.2011;Olej napedowy;Hatchback;Czerwony;Śląskie;183839;Bezwypadkowy;Manualna
+406;Skoda;47486;23.07.2012;Benzyna;Kombi;Różowy;Lubuskie;85445;Pierwszy własciciel;Automatyczna
+407;Ford;134874;22.05.2022;Benzyna;Kombi;Różowy;Świętokrzyskie;77221;Serwisowany w ASO;Manualna
+408;Renault;113645;16.09.2017;LPG;Kombi;Zielony;Mazowieckie;71190;Pierwszy własciciel;Manualna
+409;Honda;105587;04.05.2023;Benzyna;Hatchback;Czerwony;Pomorskie;204581;Garażowany;Automatyczna
+410;Peugeot;95655;12.01.2020;Benzyna;Sedan;Srebrny;Wielkopolskie;149994;Garażowany;Automatyczna
+411;Citroen;73724;21.07.2020;Benzyna;Sedan;Fioletowy;Pomorskie;265386;Bezwypadkowy;Manualna
+412;Chrysler;83155;28.04.2022;Olej napedowy;Kombi;Różowy;Warmińsko-mazurskie;245721;Garażowany;Manualna
+413;Audi;78972;19.01.2021;LPG;Kombi;Biały;Lubuskie;129746;Bezwypadkowy;Automatyczna
+414;Chevrolet;42549;27.06.2010;LPG;Hatchback;Beżowy;Łódzkie;222295;Garażowany;Automatyczna
+415;Alfa Romeo;42976;25.09.2013;LPG;Sedan;Wiśniowy;Warmińsko-mazurskie;130431;Garażowany;Automatyczna
+416;Opel;16404;12.07.2023;LPG;Sedan;Beżowy;Wielkopolskie;115778;Serwisowany w ASO;Manualna
+417;Chrysler;119474;27.10.2023;Olej napedowy;Hatchback;Wiśniowy;Mazowieckie;192966;Pierwszy własciciel;Automatyczna
+418;Ford;15622;06.05.2013;Olej napedowy;Sedan;Żółty;Lubuskie;168773;Bezwypadkowy;Automatyczna
+419;Volswagen;26070;05.10.2016;Benzyna;Hatchback;Złoty;Podkarpackie;288319;Serwisowany w ASO;Automatyczna
+420;Skoda;96705;08.10.2011;LPG;Sedan;Biały;Lubelskie;84414;Garażowany;Manualna
+421;Ford;38961;26.03.2011;LPG;Kombi;Bordowy;Podlaskie;162673;Serwisowany w ASO;Automatyczna
+422;Volvo;79469;26.08.2023;LPG;Kombi;Fioletowy;Mazowieckie;204687;Serwisowany w ASO;Automatyczna
+423;Aston Martin;20140;08.02.2020;Olej napedowy;Hatchback;Żółty;Łódzkie;198576;Garażowany;Automatyczna
+424;Aston Martin;82981;03.05.2015;Benzyna;Sedan;Wiśniowy;Zachodniopomorskie;96691;Garażowany;Automatyczna
+425;Daewoo;121587;28.09.2020;LPG;Sedan;Grafitowy;Mazowieckie;129501;Serwisowany w ASO;Manualna
+426;Peugeot;53274;21.11.2012;LPG;Sedan;Srebrny;Dolnośląskie;112660;Bezwypadkowy;Automatyczna
+427;Ford;123830;24.12.2016;Benzyna;Kombi;Brązowy;Śląskie;173494;Pierwszy własciciel;Manualna
+428;Mercedes;56109;10.05.2013;Olej napedowy;Sedan;Czerwony;Podkarpackie;195341;Bezwypadkowy;Automatyczna
+429;Seat;111575;18.09.2011;Benzyna;Sedan;Beżowy;Lubuskie;118903;Serwisowany w ASO;Automatyczna
+430;Seat;101902;09.01.2019;Olej napedowy;Kombi;Czarny;Lubuskie;261012;Serwisowany w ASO;Manualna
+431;Chevrolet;69067;01.11.2018;LPG;Sedan;Fioletowy;Zachodniopomorskie;285532;Garażowany;Automatyczna
+432;Fiat;73414;05.09.2017;LPG;Sedan;Czerwony;Świętokrzyskie;199650;Pierwszy własciciel;Automatyczna
+433;Ford;98659;27.11.2023;LPG;Hatchback;Czarny;Małopolskie;293798;Garażowany;Automatyczna
+434;Alfa Romeo;97262;15.08.2018;Olej napedowy;Sedan;Fioletowy;Małopolskie;71477;Garażowany;Automatyczna
+435;Mazda;129692;23.02.2011;LPG;Kombi;Biały;Lubuskie;67191;Garażowany;Manualna
+436;Honda;49941;28.04.2018;LPG;Hatchback;Biały;Kujawsko-pomorskie;257763;Serwisowany w ASO;Automatyczna
+437;Volvo;77119;18.04.2021;Benzyna;Hatchback;Granatowy;Podlaskie;58368;Bezwypadkowy;Manualna
+438;Ford;104316;23.09.2018;Benzyna;Kombi;Fioletowy;Śląskie;54439;Garażowany;Manualna
+439;Volswagen;10258;03.09.2019;Benzyna;Kombi;Różowy;Świętokrzyskie;236878;Bezwypadkowy;Manualna
+440;Kia;48115;04.01.2012;Benzyna;Hatchback;Wiśniowy;Podlaskie;296506;Garażowany;Manualna
+441;Alfa Romeo;129887;25.04.2023;LPG;Kombi;Pomarańczowy;Mazowieckie;95462;Bezwypadkowy;Manualna
+442;Seat;89909;06.09.2011;Benzyna;Sedan;Czarny;Śląskie;94572;Bezwypadkowy;Manualna
+443;Mazda;146497;20.12.2011;Olej napedowy;Sedan;Złoty;Lubuskie;196046;Pierwszy własciciel;Automatyczna
+444;Peugeot;51969;17.06.2020;Benzyna;Hatchback;Bordowy;Małopolskie;212405;Serwisowany w ASO;Manualna
+445;Kia;90880;17.07.2018;Olej napedowy;Kombi;Bordowy;Pomorskie;113769;Serwisowany w ASO;Manualna
+446;BMW;61104;10.04.2021;Benzyna;Hatchback;Różowy;Wielkopolskie;242853;Garażowany;Automatyczna
+447;Peugeot;122060;07.09.2011;Benzyna;Sedan;Różowy;Podlaskie;105029;Garażowany;Manualna
+448;Toyota;12010;09.07.2022;LPG;Sedan;Niebieski;Świętokrzyskie;203089;Garażowany;Manualna
+449;Chrysler;70929;30.07.2011;LPG;Kombi;Żółty;Łódzkie;130392;Garażowany;Automatyczna
+450;Toyota;136013;28.11.2016;Olej napedowy;Kombi;Szary;Opolskie;193304;Bezwypadkowy;Automatyczna
+451;BMW;72939;29.05.2021;Benzyna;Sedan;Różowy;Świętokrzyskie;205501;Garażowany;Manualna
+452;Mazda;101602;08.01.2015;LPG;Kombi;Żółty;Kujawsko-pomorskie;131313;Pierwszy własciciel;Automatyczna
+453;Ford;45633;15.02.2020;LPG;Kombi;Czerwony;Mazowieckie;197107;Pierwszy własciciel;Manualna
+454;Opel;59665;27.01.2022;LPG;Kombi;Zielony;Kujawsko-pomorskie;292622;Pierwszy własciciel;Manualna
+455;Renault;9304;29.08.2023;Olej napedowy;Hatchback;Srebrny;Pomorskie;120149;Garażowany;Manualna
+456;Seat;105548;26.10.2015;LPG;Sedan;Granatowy;Dolnośląskie;185907;Garażowany;Manualna
+457;Fiat;24989;25.10.2019;Benzyna;Hatchback;Biały;Śląskie;263509;Pierwszy własciciel;Manualna
+458;Dacia;55639;11.10.2010;Benzyna;Hatchback;Grafitowy;Warmińsko-mazurskie;285472;Serwisowany w ASO;Manualna
+459;Peugeot;28097;05.03.2019;Benzyna;Hatchback;Żółty;Małopolskie;224363;Serwisowany w ASO;Manualna
+460;Honda;54959;06.03.2013;Olej napedowy;Sedan;Złoty;Opolskie;255773;Garażowany;Automatyczna
+461;Renault;142016;07.11.2010;LPG;Kombi;Wiśniowy;Opolskie;235387;Serwisowany w ASO;Automatyczna
+462;Toyota;129276;26.01.2023;Benzyna;Kombi;Zielony;Opolskie;229883;Serwisowany w ASO;Manualna
+463;Toyota;132760;03.06.2018;Benzyna;Hatchback;Granatowy;Podlaskie;285028;Garażowany;Manualna
+464;Citroen;12404;19.03.2016;LPG;Sedan;Srebrny;Podlaskie;232204;Serwisowany w ASO;Automatyczna
+465;Opel;99350;10.10.2022;Benzyna;Sedan;Wiśniowy;Małopolskie;227890;Bezwypadkowy;Manualna
+466;Mercedes;29193;27.09.2011;Olej napedowy;Kombi;Niebieski;Lubuskie;68298;Garażowany;Manualna
+467;Kia;53215;01.12.2016;Benzyna;Sedan;Brązowy;Świętokrzyskie;113028;Pierwszy własciciel;Manualna
+468;Alfa Romeo;131943;22.09.2014;Benzyna;Kombi;Czarny;Dolnośląskie;239785;Bezwypadkowy;Automatyczna
+469;Aston Martin;30885;27.09.2021;LPG;Sedan;Brązowy;Podkarpackie;173774;Pierwszy własciciel;Automatyczna
+470;Mercedes;64006;10.06.2016;Benzyna;Kombi;Srebrny;Kujawsko-pomorskie;115564;Bezwypadkowy;Automatyczna
+471;Mazda;34552;13.08.2022;LPG;Kombi;Czerwony;Podkarpackie;86151;Garażowany;Manualna
+472;Daewoo;91006;07.08.2023;LPG;Hatchback;Różowy;Pomorskie;169634;Bezwypadkowy;Automatyczna
+473;Audi;9849;22.06.2013;Olej napedowy;Sedan;Grafitowy;Warmińsko-mazurskie;161114;Bezwypadkowy;Automatyczna
+474;Alfa Romeo;30507;15.10.2010;Benzyna;Sedan;Srebrny;Podlaskie;136247;Serwisowany w ASO;Automatyczna
+475;Dacia;66898;18.06.2015;Benzyna;Kombi;Czarny;Łódzkie;254948;Serwisowany w ASO;Manualna
+476;Chevrolet;143879;16.11.2022;Olej napedowy;Hatchback;Wiśniowy;Opolskie;230972;Garażowany;Automatyczna
+477;Toyota;25753;03.01.2019;Olej napedowy;Sedan;Bordowy;Lubelskie;166118;Garażowany;Manualna
+478;Aston Martin;124994;23.03.2014;Benzyna;Sedan;Grafitowy;Warmińsko-mazurskie;159600;Serwisowany w ASO;Manualna
+479;Kia;19191;06.05.2014;Benzyna;Kombi;Fioletowy;Lubelskie;202147;Garażowany;Manualna
+480;Daewoo;97141;16.12.2021;LPG;Kombi;Żółty;Pomorskie;141241;Bezwypadkowy;Manualna
+481;Peugeot;26282;07.08.2022;LPG;Hatchback;Różowy;Lubuskie;56139;Pierwszy własciciel;Automatyczna
+482;Kia;86618;15.04.2010;Olej napedowy;Hatchback;Wiśniowy;Lubuskie;90169;Pierwszy własciciel;Automatyczna
+483;Peugeot;133693;09.03.2013;Benzyna;Hatchback;Granatowy;Lubelskie;294365;Garażowany;Automatyczna
+484;BMW;75394;16.11.2013;LPG;Kombi;Bordowy;Kujawsko-pomorskie;143378;Serwisowany w ASO;Manualna
+485;Dacia;60233;03.03.2010;Olej napedowy;Hatchback;Srebrny;Mazowieckie;115638;Garażowany;Automatyczna
+486;Dacia;73332;03.02.2010;Olej napedowy;Kombi;Biały;Świętokrzyskie;259386;Serwisowany w ASO;Automatyczna
+487;Alfa Romeo;61728;05.11.2021;Benzyna;Sedan;Srebrny;Zachodniopomorskie;159292;Serwisowany w ASO;Automatyczna
+488;Mazda;118712;06.01.2023;Benzyna;Sedan;Czarny;Kujawsko-pomorskie;138784;Pierwszy własciciel;Manualna
+489;Skoda;107003;13.08.2021;Benzyna;Hatchback;Niebieski;Lubelskie;265526;Pierwszy własciciel;Manualna
+490;Skoda;139662;08.10.2021;Olej napedowy;Kombi;Wiśniowy;Podlaskie;215095;Bezwypadkowy;Manualna
+491;Seat;61226;03.01.2020;Olej napedowy;Hatchback;Różowy;Lubelskie;166257;Garażowany;Manualna
+492;Seat;122999;13.03.2015;Benzyna;Hatchback;Srebrny;Kujawsko-pomorskie;224090;Garażowany;Automatyczna
+493;Mazda;16461;03.12.2011;Benzyna;Kombi;Wiśniowy;Zachodniopomorskie;158901;Garażowany;Manualna
+494;Volvo;146878;03.10.2020;Olej napedowy;Kombi;Srebrny;Lubuskie;193769;Pierwszy własciciel;Manualna
+495;Peugeot;11076;12.06.2023;Olej napedowy;Hatchback;Czarny;Dolnośląskie;88563;Serwisowany w ASO;Manualna
+496;Chevrolet;79493;17.12.2010;LPG;Sedan;Fioletowy;Opolskie;198458;Serwisowany w ASO;Manualna
+497;Daewoo;133503;25.06.2022;Olej napedowy;Kombi;Niebieski;Kujawsko-pomorskie;295272;Serwisowany w ASO;Manualna
+498;Peugeot;122512;05.09.2022;Benzyna;Kombi;Czerwony;Warmińsko-mazurskie;266770;Pierwszy własciciel;Manualna
+499;Toyota;35400;29.07.2018;Benzyna;Hatchback;Brązowy;Podlaskie;113790;Bezwypadkowy;Manualna
+500;Daewoo;19083;25.07.2022;Olej napedowy;Hatchback;Fioletowy;Świętokrzyskie;137845;Serwisowany w ASO;Automatyczna
+501;Seat;135771;27.01.2022;Benzyna;Kombi;Wiśniowy;Kujawsko-pomorskie;191958;Pierwszy własciciel;Manualna
+502;Opel;11753;24.03.2012;Olej napedowy;Sedan;Pomarańczowy;Dolnośląskie;153644;Garażowany;Automatyczna
+503;Seat;15160;31.01.2018;Benzyna;Kombi;Żółty;Lubelskie;217074;Serwisowany w ASO;Manualna
+504;BMW;106478;09.09.2011;LPG;Sedan;Srebrny;Małopolskie;126754;Pierwszy własciciel;Manualna
+505;Skoda;81320;14.03.2010;Olej napedowy;Hatchback;Czerwony;Warmińsko-mazurskie;77818;Serwisowany w ASO;Automatyczna
+506;Mercedes;109155;25.08.2023;LPG;Hatchback;Granatowy;Łódzkie;73371;Bezwypadkowy;Manualna
+507;Audi;142551;03.04.2023;Olej napedowy;Sedan;Czarny;Lubuskie;167774;Bezwypadkowy;Automatyczna
+508;Dacia;145145;04.02.2014;LPG;Hatchback;Bordowy;Wielkopolskie;141852;Bezwypadkowy;Manualna
+509;Citroen;127008;03.09.2022;Olej napedowy;Sedan;Czarny;Warmińsko-mazurskie;135708;Garażowany;Automatyczna
+510;Volswagen;14420;19.06.2012;Olej napedowy;Sedan;Bordowy;Małopolskie;257552;Serwisowany w ASO;Automatyczna
+511;Volvo;72703;27.02.2011;Olej napedowy;Kombi;Żółty;Mazowieckie;173358;Bezwypadkowy;Automatyczna
+512;Mazda;141349;23.11.2015;LPG;Sedan;Różowy;Świętokrzyskie;59034;Bezwypadkowy;Manualna
+513;Fiat;100298;31.05.2020;Benzyna;Kombi;Żółty;Wielkopolskie;159625;Serwisowany w ASO;Automatyczna
+514;Audi;107299;24.10.2011;Benzyna;Kombi;Grafitowy;Podlaskie;62811;Garażowany;Manualna
+515;Volswagen;53640;09.01.2017;Benzyna;Sedan;Brązowy;Śląskie;238818;Bezwypadkowy;Manualna
+516;Opel;119968;26.10.2012;LPG;Sedan;Różowy;Wielkopolskie;189042;Pierwszy własciciel;Automatyczna
+517;Toyota;94050;16.10.2019;Olej napedowy;Sedan;Srebrny;Podlaskie;55585;Garażowany;Manualna
+518;Chevrolet;135285;27.01.2013;Olej napedowy;Hatchback;Bordowy;Podkarpackie;97818;Bezwypadkowy;Automatyczna
+519;Dacia;126826;21.06.2020;LPG;Sedan;Biały;Pomorskie;71164;Pierwszy własciciel;Manualna
+520;Renault;19508;14.08.2014;LPG;Sedan;Srebrny;Kujawsko-pomorskie;104380;Bezwypadkowy;Automatyczna
+521;Opel;17182;03.06.2019;LPG;Sedan;Szary;Zachodniopomorskie;79133;Pierwszy własciciel;Manualna
+522;Toyota;81098;03.10.2020;Benzyna;Sedan;Niebieski;Wielkopolskie;129915;Serwisowany w ASO;Automatyczna
+523;Skoda;11689;12.07.2020;LPG;Kombi;Bordowy;Podlaskie;179495;Garażowany;Manualna
+524;Kia;44969;29.03.2022;LPG;Hatchback;Szary;Podkarpackie;99033;Pierwszy własciciel;Automatyczna
+525;Skoda;145372;10.10.2023;LPG;Sedan;Żółty;Podlaskie;244377;Pierwszy własciciel;Manualna
+526;Volvo;133944;20.07.2021;LPG;Hatchback;Czerwony;Lubuskie;235582;Pierwszy własciciel;Manualna
+527;Aston Martin;39312;01.06.2014;Benzyna;Sedan;Złoty;Lubelskie;149747;Garażowany;Manualna
+528;Audi;78748;03.09.2010;Benzyna;Hatchback;Złoty;Pomorskie;203092;Serwisowany w ASO;Manualna
+529;Ford;35829;27.01.2013;Benzyna;Kombi;Brązowy;Podlaskie;52610;Garażowany;Automatyczna
+530;Toyota;17706;21.04.2016;Benzyna;Kombi;Niebieski;Dolnośląskie;207464;Bezwypadkowy;Automatyczna
+531;Seat;33500;06.01.2016;Benzyna;Sedan;Czarny;Warmińsko-mazurskie;62523;Bezwypadkowy;Manualna
+532;Daewoo;54161;11.12.2019;Olej napedowy;Sedan;Żółty;Śląskie;251941;Pierwszy własciciel;Automatyczna
+533;Alfa Romeo;8730;02.07.2019;Benzyna;Sedan;Biały;Śląskie;108380;Pierwszy własciciel;Automatyczna
+534;Aston Martin;124666;15.01.2016;LPG;Kombi;Szary;Małopolskie;270593;Garażowany;Automatyczna
+535;Chevrolet;65850;02.11.2013;Benzyna;Sedan;Biały;Dolnośląskie;52417;Garażowany;Automatyczna
+536;BMW;124428;06.08.2019;LPG;Hatchback;Srebrny;Warmińsko-mazurskie;110188;Garażowany;Manualna
+537;Volvo;51865;16.09.2013;Olej napedowy;Kombi;Beżowy;Pomorskie;267737;Serwisowany w ASO;Automatyczna
+538;Opel;61840;21.09.2011;Olej napedowy;Kombi;Srebrny;Mazowieckie;78079;Bezwypadkowy;Manualna
+539;Aston Martin;59950;01.12.2022;Benzyna;Kombi;Szary;Opolskie;294830;Pierwszy własciciel;Automatyczna
+540;Kia;128339;02.07.2023;Benzyna;Hatchback;Wiśniowy;Dolnośląskie;146633;Garażowany;Manualna
+541;BMW;36967;18.05.2019;LPG;Hatchback;Czarny;Warmińsko-mazurskie;110887;Bezwypadkowy;Automatyczna
+542;Ford;101311;20.08.2017;LPG;Sedan;Niebieski;Podkarpackie;190636;Garażowany;Manualna
+543;Mercedes;33942;09.10.2010;Benzyna;Kombi;Zielony;Małopolskie;180660;Pierwszy własciciel;Manualna
+544;Peugeot;69328;26.05.2016;Benzyna;Sedan;Niebieski;Opolskie;97433;Garażowany;Automatyczna
+545;Toyota;93463;20.11.2013;Olej napedowy;Kombi;Beżowy;Wielkopolskie;125202;Pierwszy własciciel;Automatyczna
+546;BMW;42188;11.04.2020;Olej napedowy;Hatchback;Beżowy;Dolnośląskie;213658;Bezwypadkowy;Manualna
+547;Peugeot;18049;04.12.2021;Olej napedowy;Hatchback;Pomarańczowy;Dolnośląskie;200737;Pierwszy własciciel;Automatyczna
+548;Mercedes;109261;25.07.2020;LPG;Sedan;Bordowy;Lubuskie;291790;Garażowany;Automatyczna
+549;Seat;101958;14.02.2022;LPG;Sedan;Czarny;Dolnośląskie;55111;Pierwszy własciciel;Automatyczna
+550;Seat;35896;26.06.2023;Benzyna;Sedan;Szary;Podlaskie;60966;Bezwypadkowy;Automatyczna
+551;Daewoo;142285;01.03.2011;Olej napedowy;Sedan;Żółty;Warmińsko-mazurskie;58462;Pierwszy własciciel;Manualna
+552;Volswagen;128906;13.06.2014;LPG;Hatchback;Biały;Kujawsko-pomorskie;73505;Pierwszy własciciel;Automatyczna
+553;Ford;25627;22.04.2021;Benzyna;Hatchback;Różowy;Lubuskie;87906;Serwisowany w ASO;Automatyczna
+554;BMW;70257;04.08.2017;Olej napedowy;Kombi;Granatowy;Podlaskie;65719;Garażowany;Automatyczna
+555;Volswagen;138135;14.01.2015;LPG;Hatchback;Fioletowy;Zachodniopomorskie;53096;Bezwypadkowy;Automatyczna
+556;Volvo;128281;18.12.2020;LPG;Hatchback;Złoty;Zachodniopomorskie;269315;Garażowany;Manualna
+557;Volvo;69234;25.09.2014;LPG;Hatchback;Bordowy;Łódzkie;166223;Pierwszy własciciel;Automatyczna
+558;Ford;143422;25.07.2016;LPG;Kombi;Biały;Podlaskie;146196;Pierwszy własciciel;Manualna
+559;Chevrolet;146970;29.10.2010;Olej napedowy;Kombi;Szary;Kujawsko-pomorskie;224769;Serwisowany w ASO;Automatyczna
+560;Alfa Romeo;88471;12.11.2022;Benzyna;Hatchback;Pomarańczowy;Świętokrzyskie;225275;Bezwypadkowy;Manualna
+561;Dacia;123782;16.05.2019;LPG;Hatchback;Fioletowy;Opolskie;263263;Bezwypadkowy;Automatyczna
+562;Alfa Romeo;86571;18.11.2011;LPG;Sedan;Fioletowy;Lubuskie;235058;Pierwszy własciciel;Automatyczna
+563;Toyota;116804;04.08.2015;Olej napedowy;Hatchback;Srebrny;Łódzkie;147811;Garażowany;Manualna
+564;Citroen;23755;16.10.2017;Olej napedowy;Hatchback;Granatowy;Zachodniopomorskie;269091;Garażowany;Manualna
+565;Volswagen;115160;22.12.2011;LPG;Sedan;Zielony;Małopolskie;152412;Bezwypadkowy;Manualna
+566;Fiat;104263;12.06.2010;Benzyna;Hatchback;Grafitowy;Wielkopolskie;98875;Serwisowany w ASO;Manualna
+567;Honda;125873;01.12.2020;Benzyna;Hatchback;Zielony;Dolnośląskie;80341;Bezwypadkowy;Manualna
+568;Aston Martin;121765;13.10.2021;Benzyna;Sedan;Pomarańczowy;Pomorskie;277374;Garażowany;Automatyczna
+569;Mazda;35188;14.06.2017;Olej napedowy;Hatchback;Brązowy;Opolskie;52151;Pierwszy własciciel;Automatyczna
+570;Seat;59777;04.03.2013;Benzyna;Sedan;Bordowy;Lubuskie;145122;Bezwypadkowy;Automatyczna
+571;Mazda;147080;09.05.2012;Olej napedowy;Sedan;Pomarańczowy;Pomorskie;143451;Pierwszy własciciel;Automatyczna
+572;Kia;42142;25.02.2021;LPG;Sedan;Żółty;Kujawsko-pomorskie;299341;Garażowany;Manualna
+573;Daewoo;78877;12.09.2023;LPG;Hatchback;Czerwony;Warmińsko-mazurskie;265419;Garażowany;Manualna
+574;Peugeot;89813;05.05.2021;Olej napedowy;Hatchback;Brązowy;Łódzkie;287420;Bezwypadkowy;Automatyczna
+575;Ford;92843;22.02.2015;Olej napedowy;Sedan;Pomarańczowy;Podkarpackie;285547;Bezwypadkowy;Manualna
+576;Chevrolet;10465;09.02.2018;LPG;Sedan;Srebrny;Pomorskie;245240;Bezwypadkowy;Manualna
+577;Peugeot;105545;01.04.2023;Benzyna;Kombi;Złoty;Kujawsko-pomorskie;184372;Serwisowany w ASO;Manualna
+578;Ford;142131;18.05.2015;LPG;Hatchback;Pomarańczowy;Dolnośląskie;194241;Pierwszy własciciel;Automatyczna
+579;Alfa Romeo;31668;17.08.2013;Olej napedowy;Sedan;Złoty;Podlaskie;136286;Garażowany;Manualna
+580;Toyota;24198;02.08.2018;Olej napedowy;Kombi;Czerwony;Łódzkie;206404;Garażowany;Manualna
+581;Volvo;26538;16.01.2019;Olej napedowy;Hatchback;Żółty;Łódzkie;115031;Bezwypadkowy;Manualna
+582;Mercedes;129529;05.06.2017;Benzyna;Hatchback;Grafitowy;Dolnośląskie;61602;Pierwszy własciciel;Manualna
+583;Volswagen;128113;17.02.2014;LPG;Sedan;Biały;Podkarpackie;299889;Bezwypadkowy;Manualna
+584;Dacia;103206;09.06.2020;Benzyna;Hatchback;Brązowy;Lubelskie;74673;Bezwypadkowy;Manualna
+585;Seat;103273;11.01.2019;Benzyna;Sedan;Czerwony;Pomorskie;104806;Serwisowany w ASO;Manualna
+586;Alfa Romeo;90392;07.10.2021;Benzyna;Kombi;Beżowy;Pomorskie;227338;Pierwszy własciciel;Automatyczna
+587;Opel;99427;03.06.2018;Benzyna;Sedan;Biały;Podlaskie;256623;Serwisowany w ASO;Manualna
+588;Volswagen;81959;18.05.2022;Benzyna;Kombi;Niebieski;Lubuskie;137695;Bezwypadkowy;Manualna
+589;Volswagen;43208;25.04.2012;LPG;Sedan;Czarny;Śląskie;131532;Pierwszy własciciel;Manualna
+590;Kia;149828;21.10.2017;Benzyna;Sedan;Niebieski;Podkarpackie;255227;Garażowany;Automatyczna
+591;Daewoo;33499;19.07.2017;Benzyna;Kombi;Żółty;Świętokrzyskie;134306;Garażowany;Manualna
+592;Audi;85901;13.11.2018;LPG;Hatchback;Beżowy;Pomorskie;234356;Serwisowany w ASO;Manualna
+593;Daewoo;131375;27.12.2023;Olej napedowy;Kombi;Bordowy;Łódzkie;92210;Pierwszy własciciel;Automatyczna
+594;Skoda;140101;03.03.2010;Olej napedowy;Sedan;Biały;Warmińsko-mazurskie;277958;Bezwypadkowy;Manualna
+595;Aston Martin;19965;03.02.2011;Benzyna;Kombi;Żółty;Śląskie;280296;Serwisowany w ASO;Manualna
+596;Honda;57924;20.12.2023;Benzyna;Hatchback;Zielony;Kujawsko-pomorskie;241247;Serwisowany w ASO;Manualna
+597;Dacia;58304;04.11.2015;Benzyna;Hatchback;Beżowy;Lubelskie;192426;Serwisowany w ASO;Manualna
+598;Citroen;89364;19.04.2021;Benzyna;Hatchback;Czerwony;Lubelskie;110653;Pierwszy własciciel;Automatyczna
+599;Volvo;11954;12.08.2017;LPG;Kombi;Czerwony;Łódzkie;86149;Serwisowany w ASO;Manualna
+600;Toyota;133151;27.06.2013;Benzyna;Hatchback;Bordowy;Małopolskie;213090;Pierwszy własciciel;Manualna
+601;Skoda;60563;30.04.2021;Olej napedowy;Sedan;Niebieski;Małopolskie;249997;Garażowany;Manualna
+602;Fiat;113399;30.05.2022;Olej napedowy;Kombi;Srebrny;Mazowieckie;204162;Pierwszy własciciel;Manualna
+603;Daewoo;124595;14.11.2021;Olej napedowy;Hatchback;Złoty;Mazowieckie;160797;Garażowany;Manualna
+604;Skoda;132160;29.06.2011;LPG;Kombi;Różowy;Opolskie;219209;Bezwypadkowy;Manualna
+605;Chrysler;55105;11.04.2012;LPG;Kombi;Brązowy;Podkarpackie;87702;Garażowany;Automatyczna
+606;Alfa Romeo;109107;27.06.2015;Benzyna;Sedan;Granatowy;Mazowieckie;191153;Bezwypadkowy;Manualna
+607;Volvo;26547;03.04.2015;Benzyna;Kombi;Grafitowy;Łódzkie;261408;Bezwypadkowy;Manualna
+608;Daewoo;18586;31.10.2019;LPG;Kombi;Granatowy;Dolnośląskie;278561;Serwisowany w ASO;Automatyczna
+609;Seat;33374;24.12.2010;Benzyna;Sedan;Fioletowy;Podkarpackie;201327;Serwisowany w ASO;Automatyczna
+610;Mazda;114881;28.07.2015;LPG;Hatchback;Biały;Opolskie;133222;Bezwypadkowy;Manualna
+611;Mazda;96681;28.12.2022;Olej napedowy;Hatchback;Biały;Świętokrzyskie;170976;Garażowany;Automatyczna
+612;Honda;20485;17.12.2016;LPG;Hatchback;Różowy;Lubelskie;241445;Bezwypadkowy;Automatyczna
+613;Chrysler;76932;05.05.2019;Benzyna;Sedan;Różowy;Lubelskie;75501;Pierwszy własciciel;Automatyczna
+614;Chrysler;139590;26.04.2015;Benzyna;Hatchback;Zielony;Małopolskie;268318;Serwisowany w ASO;Automatyczna
+615;Alfa Romeo;82344;09.07.2014;LPG;Sedan;Złoty;Warmińsko-mazurskie;199549;Garażowany;Manualna
+616;Kia;65624;26.07.2014;LPG;Sedan;Wiśniowy;Łódzkie;118215;Bezwypadkowy;Manualna
+617;BMW;43554;30.10.2016;Olej napedowy;Sedan;Granatowy;Dolnośląskie;184117;Pierwszy własciciel;Manualna
+618;Alfa Romeo;126530;27.03.2011;LPG;Hatchback;Szary;Małopolskie;104554;Garażowany;Manualna
+619;Toyota;56741;09.03.2018;Olej napedowy;Hatchback;Fioletowy;Lubuskie;140604;Garażowany;Automatyczna
+620;Renault;140321;17.07.2016;LPG;Hatchback;Zielony;Pomorskie;96723;Serwisowany w ASO;Automatyczna
+621;Aston Martin;141460;03.09.2019;Benzyna;Sedan;Granatowy;Wielkopolskie;209608;Serwisowany w ASO;Manualna
+622;Audi;36587;16.08.2021;Benzyna;Kombi;Zielony;Łódzkie;74854;Garażowany;Automatyczna
+623;Volvo;64045;17.05.2022;Benzyna;Sedan;Fioletowy;Lubuskie;208301;Pierwszy własciciel;Automatyczna
+624;Chevrolet;91287;12.10.2019;Olej napedowy;Hatchback;Żółty;Podlaskie;194116;Pierwszy własciciel;Automatyczna
+625;Daewoo;119975;05.12.2017;Benzyna;Sedan;Niebieski;Małopolskie;95935;Garażowany;Automatyczna
+626;Dacia;138358;07.12.2015;Olej napedowy;Sedan;Bordowy;Lubuskie;90906;Bezwypadkowy;Manualna
+627;Chevrolet;143516;11.06.2014;LPG;Sedan;Fioletowy;Dolnośląskie;134100;Pierwszy własciciel;Manualna
+628;Toyota;109648;30.04.2019;Olej napedowy;Kombi;Żółty;Zachodniopomorskie;155908;Garażowany;Automatyczna
+629;Daewoo;9248;28.10.2018;Benzyna;Kombi;Srebrny;Świętokrzyskie;194581;Pierwszy własciciel;Automatyczna
+630;Volswagen;110573;24.06.2020;LPG;Hatchback;Czerwony;Kujawsko-pomorskie;75847;Serwisowany w ASO;Manualna
+631;Audi;30492;12.03.2021;Benzyna;Kombi;Srebrny;Kujawsko-pomorskie;192673;Bezwypadkowy;Automatyczna
+632;Chevrolet;129243;24.05.2023;Benzyna;Kombi;Niebieski;Śląskie;200123;Serwisowany w ASO;Automatyczna
+633;Chrysler;35186;19.03.2018;Benzyna;Sedan;Pomarańczowy;Warmińsko-mazurskie;155051;Pierwszy własciciel;Automatyczna
+634;Toyota;64955;13.05.2012;Olej napedowy;Hatchback;Pomarańczowy;Lubelskie;263508;Pierwszy własciciel;Automatyczna
+635;Fiat;44035;15.05.2018;Olej napedowy;Kombi;Żółty;Lubelskie;241949;Garażowany;Automatyczna
+636;Peugeot;14905;30.05.2020;Benzyna;Sedan;Bordowy;Podlaskie;175701;Pierwszy własciciel;Automatyczna
+637;Renault;23619;11.01.2023;Olej napedowy;Sedan;Szary;Małopolskie;78422;Serwisowany w ASO;Manualna
+638;Daewoo;148243;03.02.2014;Benzyna;Kombi;Pomarańczowy;Małopolskie;87749;Bezwypadkowy;Manualna
+639;Renault;143166;03.09.2022;LPG;Hatchback;Grafitowy;Wielkopolskie;286119;Serwisowany w ASO;Automatyczna
+640;Daewoo;49724;18.12.2014;LPG;Sedan;Różowy;Mazowieckie;221963;Bezwypadkowy;Automatyczna
+641;Volswagen;111797;24.09.2021;Olej napedowy;Kombi;Złoty;Pomorskie;290275;Serwisowany w ASO;Automatyczna
+642;Chrysler;129680;11.11.2012;LPG;Kombi;Różowy;Dolnośląskie;67246;Bezwypadkowy;Automatyczna
+643;Chevrolet;75848;24.08.2017;LPG;Sedan;Szary;Mazowieckie;200898;Serwisowany w ASO;Manualna
+644;Kia;40021;03.12.2016;Benzyna;Kombi;Grafitowy;Mazowieckie;133201;Serwisowany w ASO;Automatyczna
+645;Chrysler;59023;27.08.2011;Olej napedowy;Sedan;Bordowy;Warmińsko-mazurskie;271967;Serwisowany w ASO;Manualna
+646;BMW;109929;24.10.2016;LPG;Sedan;Szary;Zachodniopomorskie;95501;Bezwypadkowy;Manualna
+647;Mercedes;66374;12.12.2020;Benzyna;Sedan;Szary;Pomorskie;85010;Garażowany;Automatyczna
+648;Opel;118240;17.06.2013;Olej napedowy;Hatchback;Wiśniowy;Łódzkie;159321;Garażowany;Manualna
+649;Mercedes;71103;09.11.2012;Olej napedowy;Sedan;Biały;Kujawsko-pomorskie;93934;Bezwypadkowy;Manualna
+650;Citroen;22339;01.06.2018;Benzyna;Kombi;Zielony;Łódzkie;171115;Bezwypadkowy;Manualna
+651;Toyota;121770;30.04.2020;Olej napedowy;Sedan;Beżowy;Świętokrzyskie;105508;Bezwypadkowy;Manualna
+652;Seat;53107;10.04.2014;Olej napedowy;Kombi;Czerwony;Dolnośląskie;64034;Pierwszy własciciel;Automatyczna
+653;Skoda;16364;05.12.2011;Olej napedowy;Hatchback;Żółty;Dolnośląskie;83033;Bezwypadkowy;Automatyczna
+654;Seat;106142;13.11.2023;Olej napedowy;Sedan;Grafitowy;Łódzkie;283492;Garażowany;Automatyczna
+655;Renault;148556;21.12.2014;LPG;Sedan;Czarny;Warmińsko-mazurskie;151550;Pierwszy własciciel;Manualna
+656;Opel;54150;24.07.2019;Olej napedowy;Hatchback;Beżowy;Zachodniopomorskie;227091;Bezwypadkowy;Manualna
+657;Mazda;63408;25.06.2023;LPG;Kombi;Bordowy;Świętokrzyskie;139696;Serwisowany w ASO;Automatyczna
+658;Daewoo;100890;28.04.2011;Benzyna;Sedan;Pomarańczowy;Zachodniopomorskie;88493;Garażowany;Automatyczna
+659;Seat;32360;06.10.2015;Benzyna;Hatchback;Czarny;Zachodniopomorskie;229582;Bezwypadkowy;Automatyczna
+660;Dacia;12264;15.10.2012;Benzyna;Hatchback;Różowy;Podkarpackie;173649;Serwisowany w ASO;Automatyczna
+661;Volswagen;70766;06.02.2012;Benzyna;Hatchback;Biały;Pomorskie;66425;Garażowany;Manualna
+662;Chevrolet;145512;10.11.2021;Olej napedowy;Sedan;Żółty;Podkarpackie;165273;Pierwszy własciciel;Manualna
+663;Volswagen;39604;04.10.2017;Olej napedowy;Sedan;Niebieski;Kujawsko-pomorskie;241166;Bezwypadkowy;Manualna
+664;Chrysler;69919;29.12.2016;Olej napedowy;Kombi;Bordowy;Łódzkie;174539;Bezwypadkowy;Manualna
+665;Peugeot;85879;27.10.2012;Benzyna;Hatchback;Pomarańczowy;Lubelskie;257589;Bezwypadkowy;Manualna
+666;Fiat;81154;30.07.2010;Benzyna;Kombi;Złoty;Śląskie;89416;Bezwypadkowy;Automatyczna
+667;Audi;113419;12.09.2014;Benzyna;Kombi;Pomarańczowy;Mazowieckie;89620;Garażowany;Manualna
+668;Chrysler;43044;31.01.2022;LPG;Hatchback;Niebieski;Zachodniopomorskie;76670;Serwisowany w ASO;Manualna
+669;Audi;42585;11.06.2010;LPG;Kombi;Bordowy;Zachodniopomorskie;89370;Bezwypadkowy;Manualna
+670;Skoda;149241;14.01.2010;Benzyna;Kombi;Grafitowy;Łódzkie;222862;Bezwypadkowy;Automatyczna
+671;Opel;122730;01.07.2021;Olej napedowy;Hatchback;Czarny;Pomorskie;61555;Serwisowany w ASO;Manualna
+672;Citroen;22255;13.04.2015;Benzyna;Kombi;Zielony;Małopolskie;105118;Garażowany;Manualna
+673;Mercedes;69567;04.02.2023;LPG;Hatchback;Niebieski;Dolnośląskie;243569;Serwisowany w ASO;Automatyczna
+674;Mazda;107625;05.01.2011;LPG;Sedan;Brązowy;Małopolskie;88829;Bezwypadkowy;Manualna
+675;Volswagen;72667;20.06.2018;Benzyna;Kombi;Czarny;Lubuskie;237434;Bezwypadkowy;Automatyczna
+676;Chevrolet;43370;02.01.2021;LPG;Sedan;Zielony;Mazowieckie;204443;Garażowany;Manualna
+677;Toyota;128905;02.05.2016;Olej napedowy;Kombi;Złoty;Lubuskie;253499;Pierwszy własciciel;Automatyczna
+678;Volvo;52679;01.02.2013;Olej napedowy;Kombi;Czarny;Śląskie;174283;Bezwypadkowy;Manualna
+679;Mazda;131031;11.09.2021;Benzyna;Sedan;Zielony;Świętokrzyskie;222623;Garażowany;Manualna
+680;Renault;91792;23.03.2020;Benzyna;Hatchback;Różowy;Opolskie;56084;Garażowany;Manualna
+681;Audi;42772;01.10.2016;Olej napedowy;Sedan;Beżowy;Podkarpackie;112838;Bezwypadkowy;Manualna
+682;Chevrolet;76817;22.06.2020;Benzyna;Hatchback;Brązowy;Podlaskie;181252;Serwisowany w ASO;Manualna
+683;Seat;126181;21.07.2020;Olej napedowy;Hatchback;Granatowy;Łódzkie;227511;Bezwypadkowy;Manualna
+684;Chrysler;50009;21.08.2013;LPG;Hatchback;Czarny;Pomorskie;50147;Garażowany;Manualna
+685;Alfa Romeo;80128;04.01.2020;LPG;Kombi;Fioletowy;Warmińsko-mazurskie;181835;Garażowany;Manualna
+686;Opel;107906;03.04.2016;Olej napedowy;Hatchback;Biały;Lubuskie;253304;Pierwszy własciciel;Automatyczna
+687;Alfa Romeo;111757;03.12.2020;Benzyna;Hatchback;Fioletowy;Zachodniopomorskie;79928;Garażowany;Automatyczna
+688;Dacia;17793;09.08.2019;LPG;Sedan;Pomarańczowy;Zachodniopomorskie;148791;Pierwszy własciciel;Automatyczna
+689;BMW;35065;23.08.2015;Benzyna;Hatchback;Złoty;Świętokrzyskie;259149;Serwisowany w ASO;Automatyczna
+690;Toyota;148719;22.09.2018;LPG;Sedan;Beżowy;Mazowieckie;262681;Bezwypadkowy;Manualna
+691;Chevrolet;122883;17.08.2012;Benzyna;Kombi;Szary;Podkarpackie;54376;Bezwypadkowy;Automatyczna
+692;Chevrolet;121145;30.07.2022;Benzyna;Hatchback;Różowy;Mazowieckie;64443;Pierwszy własciciel;Automatyczna
+693;Opel;113913;13.01.2019;LPG;Sedan;Grafitowy;Śląskie;127477;Garażowany;Automatyczna
+694;Chevrolet;20939;10.11.2010;LPG;Sedan;Żółty;Śląskie;229588;Bezwypadkowy;Automatyczna
+695;Alfa Romeo;58047;30.11.2017;Olej napedowy;Sedan;Bordowy;Podkarpackie;123643;Bezwypadkowy;Manualna
+696;Honda;31974;24.10.2010;Benzyna;Kombi;Szary;Lubelskie;50653;Pierwszy własciciel;Manualna
+697;Kia;128740;15.05.2015;Benzyna;Sedan;Fioletowy;Warmińsko-mazurskie;54556;Garażowany;Automatyczna
+698;Opel;27186;03.11.2014;Benzyna;Kombi;Grafitowy;Lubelskie;211708;Garażowany;Automatyczna
+699;Daewoo;12969;29.12.2010;LPG;Kombi;Złoty;Kujawsko-pomorskie;256990;Bezwypadkowy;Automatyczna
+700;Daewoo;60497;06.06.2018;Olej napedowy;Hatchback;Niebieski;Lubuskie;167362;Garażowany;Automatyczna
+701;Toyota;122296;14.09.2015;LPG;Kombi;Zielony;Śląskie;276299;Pierwszy własciciel;Automatyczna
+702;Aston Martin;61654;15.08.2013;Olej napedowy;Sedan;Wiśniowy;Śląskie;284182;Garażowany;Manualna
+703;Volswagen;40188;02.01.2016;Olej napedowy;Hatchback;Żółty;Mazowieckie;196456;Bezwypadkowy;Automatyczna
+704;Kia;62507;22.04.2010;LPG;Sedan;Różowy;Pomorskie;193057;Bezwypadkowy;Automatyczna
+705;Seat;132189;21.11.2015;LPG;Kombi;Złoty;Mazowieckie;295173;Serwisowany w ASO;Automatyczna
+706;Fiat;78753;12.04.2022;LPG;Kombi;Brązowy;Śląskie;189715;Garażowany;Automatyczna
+707;Skoda;10000;02.12.2010;Olej napedowy;Hatchback;Szary;Warmińsko-mazurskie;213334;Bezwypadkowy;Automatyczna
+708;Mazda;39585;25.07.2018;Benzyna;Sedan;Wiśniowy;Świętokrzyskie;104336;Bezwypadkowy;Manualna
+709;Alfa Romeo;15443;13.04.2021;Olej napedowy;Kombi;Fioletowy;Wielkopolskie;293263;Pierwszy własciciel;Automatyczna
+710;Daewoo;45879;13.06.2011;Olej napedowy;Kombi;Szary;Mazowieckie;228312;Garażowany;Manualna
+711;Volvo;110527;13.08.2015;Olej napedowy;Kombi;Biały;Pomorskie;68394;Serwisowany w ASO;Automatyczna
+712;Mercedes;115022;06.09.2021;LPG;Hatchback;Beżowy;Opolskie;173755;Bezwypadkowy;Automatyczna
+713;Mazda;84462;05.11.2014;Olej napedowy;Kombi;Czerwony;Małopolskie;281190;Serwisowany w ASO;Automatyczna
+714;BMW;51335;29.04.2016;Benzyna;Hatchback;Biały;Małopolskie;270539;Garażowany;Manualna
+715;Audi;66194;17.04.2014;Benzyna;Kombi;Szary;Dolnośląskie;110717;Garażowany;Manualna
+716;Kia;75979;02.07.2020;Benzyna;Sedan;Beżowy;Warmińsko-mazurskie;240082;Serwisowany w ASO;Automatyczna
+717;Seat;58983;19.02.2016;LPG;Sedan;Zielony;Warmińsko-mazurskie;79570;Garażowany;Manualna
+718;Chrysler;108005;10.02.2023;Benzyna;Hatchback;Zielony;Opolskie;55124;Serwisowany w ASO;Automatyczna
+719;Dacia;87830;28.08.2023;Benzyna;Hatchback;Złoty;Wielkopolskie;166732;Pierwszy własciciel;Manualna
+720;Chevrolet;20211;10.06.2019;Benzyna;Sedan;Bordowy;Lubelskie;256369;Pierwszy własciciel;Manualna
+721;Fiat;130331;01.10.2013;Olej napedowy;Sedan;Złoty;Łódzkie;216818;Serwisowany w ASO;Automatyczna
+722;Audi;65208;30.07.2019;Olej napedowy;Sedan;Granatowy;Podlaskie;70808;Bezwypadkowy;Automatyczna
+723;Fiat;8697;02.02.2019;LPG;Kombi;Wiśniowy;Zachodniopomorskie;133328;Pierwszy własciciel;Automatyczna
+724;BMW;83730;20.02.2013;Olej napedowy;Hatchback;Pomarańczowy;Kujawsko-pomorskie;63233;Serwisowany w ASO;Automatyczna
+725;Kia;135192;16.07.2019;LPG;Kombi;Złoty;Śląskie;268417;Serwisowany w ASO;Manualna
+726;Mercedes;64941;25.04.2022;Olej napedowy;Hatchback;Pomarańczowy;Podkarpackie;263486;Garażowany;Manualna
+727;Toyota;92240;06.07.2014;LPG;Sedan;Bordowy;Zachodniopomorskie;150033;Bezwypadkowy;Automatyczna
+728;Mercedes;141149;20.04.2016;LPG;Hatchback;Granatowy;Podlaskie;85893;Pierwszy własciciel;Automatyczna
+729;Seat;114838;14.03.2023;Benzyna;Hatchback;Bordowy;Lubuskie;175009;Bezwypadkowy;Manualna
+730;Skoda;45992;01.12.2018;Olej napedowy;Hatchback;Granatowy;Lubuskie;121801;Garażowany;Manualna
+731;Chrysler;30275;21.10.2021;Olej napedowy;Kombi;Biały;Kujawsko-pomorskie;286903;Garażowany;Automatyczna
+732;Mazda;116827;14.04.2022;Benzyna;Kombi;Granatowy;Wielkopolskie;264824;Serwisowany w ASO;Automatyczna
+733;Aston Martin;53833;27.04.2012;Benzyna;Hatchback;Brązowy;Podlaskie;54917;Serwisowany w ASO;Manualna
+734;Daewoo;32082;25.10.2017;Olej napedowy;Hatchback;Złoty;Pomorskie;289600;Bezwypadkowy;Automatyczna
+735;Volswagen;10029;31.03.2018;Benzyna;Hatchback;Srebrny;Podlaskie;212862;Garażowany;Automatyczna
+736;Volvo;30848;28.06.2021;Olej napedowy;Sedan;Granatowy;Dolnośląskie;199398;Garażowany;Automatyczna
+737;Renault;68486;31.10.2023;Benzyna;Hatchback;Biały;Śląskie;224622;Bezwypadkowy;Manualna
+738;Seat;69787;29.09.2012;Olej napedowy;Kombi;Granatowy;Małopolskie;157584;Pierwszy własciciel;Automatyczna
+739;Ford;14294;05.04.2011;LPG;Kombi;Granatowy;Dolnośląskie;154281;Pierwszy własciciel;Automatyczna
+740;Skoda;19795;01.11.2014;Benzyna;Kombi;Fioletowy;Podkarpackie;102117;Garażowany;Manualna
+741;Daewoo;73989;22.11.2014;Olej napedowy;Kombi;Czarny;Pomorskie;232764;Serwisowany w ASO;Manualna
+742;Audi;131359;14.02.2018;Olej napedowy;Hatchback;Zielony;Podlaskie;257947;Serwisowany w ASO;Manualna
+743;Volvo;23728;06.11.2012;Benzyna;Kombi;Szary;Mazowieckie;56471;Pierwszy własciciel;Manualna
+744;Opel;53785;25.09.2016;LPG;Sedan;Granatowy;Zachodniopomorskie;224174;Serwisowany w ASO;Automatyczna
+745;Aston Martin;96712;16.04.2011;Benzyna;Hatchback;Szary;Lubuskie;145498;Bezwypadkowy;Automatyczna
+746;Kia;22289;17.03.2017;Olej napedowy;Sedan;Pomarańczowy;Dolnośląskie;209800;Bezwypadkowy;Manualna
+747;Citroen;34773;16.08.2015;LPG;Hatchback;Wiśniowy;Lubuskie;118482;Garażowany;Manualna
+748;Honda;27851;25.01.2022;Benzyna;Kombi;Grafitowy;Wielkopolskie;54843;Bezwypadkowy;Manualna
+749;Mercedes;20678;18.03.2022;Olej napedowy;Hatchback;Niebieski;Podkarpackie;274349;Serwisowany w ASO;Automatyczna
+750;Chevrolet;128639;28.02.2011;Olej napedowy;Hatchback;Żółty;Kujawsko-pomorskie;204535;Serwisowany w ASO;Manualna
+751;Ford;48489;15.04.2017;Benzyna;Kombi;Bordowy;Wielkopolskie;276847;Garażowany;Automatyczna
+752;Skoda;47796;20.05.2017;LPG;Kombi;Czarny;Lubelskie;200271;Garażowany;Automatyczna
+753;BMW;31918;31.10.2020;LPG;Kombi;Niebieski;Kujawsko-pomorskie;167325;Serwisowany w ASO;Automatyczna
+754;Audi;92807;15.04.2010;Benzyna;Sedan;Zielony;Łódzkie;145100;Garażowany;Automatyczna
+755;Volvo;12131;22.10.2018;Olej napedowy;Kombi;Szary;Śląskie;229619;Garażowany;Manualna
+756;Kia;37929;11.08.2012;Olej napedowy;Kombi;Fioletowy;Zachodniopomorskie;185932;Pierwszy własciciel;Automatyczna
+757;Toyota;41599;27.07.2020;LPG;Sedan;Bordowy;Dolnośląskie;63740;Pierwszy własciciel;Automatyczna
+758;Toyota;63537;01.03.2017;LPG;Kombi;Różowy;Dolnośląskie;137725;Garażowany;Automatyczna
+759;Alfa Romeo;38761;30.08.2019;Benzyna;Sedan;Bordowy;Opolskie;275417;Bezwypadkowy;Manualna
+760;Toyota;15763;02.04.2014;Benzyna;Sedan;Biały;Śląskie;167791;Bezwypadkowy;Automatyczna
+761;Opel;75195;29.08.2012;LPG;Sedan;Wiśniowy;Zachodniopomorskie;211702;Bezwypadkowy;Manualna
+762;Opel;37353;25.05.2012;Benzyna;Kombi;Czarny;Zachodniopomorskie;143412;Serwisowany w ASO;Automatyczna
+763;Aston Martin;145531;15.09.2011;LPG;Sedan;Czerwony;Kujawsko-pomorskie;129360;Garażowany;Manualna
+764;Chevrolet;38000;14.09.2014;Benzyna;Sedan;Niebieski;Pomorskie;132013;Pierwszy własciciel;Automatyczna
+765;Opel;71130;04.01.2020;Olej napedowy;Sedan;Biały;Małopolskie;225480;Serwisowany w ASO;Automatyczna
+766;Opel;103991;25.06.2013;Benzyna;Sedan;Różowy;Warmińsko-mazurskie;296635;Garażowany;Manualna
+767;Honda;51525;05.03.2012;LPG;Hatchback;Czarny;Małopolskie;60898;Bezwypadkowy;Automatyczna
+768;Audi;146348;17.06.2013;Olej napedowy;Hatchback;Czerwony;Opolskie;283002;Pierwszy własciciel;Automatyczna
+769;Citroen;51432;01.05.2013;Olej napedowy;Sedan;Różowy;Opolskie;296040;Pierwszy własciciel;Manualna
+770;Dacia;126794;09.10.2010;Benzyna;Sedan;Brązowy;Podkarpackie;122076;Pierwszy własciciel;Automatyczna
+771;Alfa Romeo;27119;08.07.2014;Benzyna;Kombi;Czerwony;Warmińsko-mazurskie;255597;Serwisowany w ASO;Automatyczna
+772;Renault;74347;12.05.2019;Olej napedowy;Hatchback;Wiśniowy;Świętokrzyskie;242991;Garażowany;Automatyczna
+773;Honda;83338;14.03.2014;LPG;Kombi;Bordowy;Lubuskie;262460;Bezwypadkowy;Automatyczna
+774;Daewoo;111542;18.02.2022;Olej napedowy;Hatchback;Fioletowy;Podkarpackie;232700;Serwisowany w ASO;Automatyczna
+775;Renault;139120;07.08.2019;Olej napedowy;Hatchback;Granatowy;Wielkopolskie;196886;Serwisowany w ASO;Manualna
+776;Alfa Romeo;89866;07.10.2013;Benzyna;Kombi;Grafitowy;Podkarpackie;78431;Serwisowany w ASO;Manualna
+777;Aston Martin;131565;05.02.2018;Benzyna;Sedan;Biały;Mazowieckie;259102;Serwisowany w ASO;Automatyczna
+778;Chevrolet;48029;18.01.2012;Benzyna;Kombi;Bordowy;Świętokrzyskie;245057;Garażowany;Manualna
+779;Toyota;69018;21.09.2016;Olej napedowy;Kombi;Granatowy;Mazowieckie;105790;Garażowany;Automatyczna
+780;Honda;88030;22.09.2012;Olej napedowy;Kombi;Granatowy;Warmińsko-mazurskie;165384;Garażowany;Manualna
+781;Mercedes;142185;18.11.2016;Benzyna;Sedan;Czarny;Lubelskie;110880;Garażowany;Manualna
+782;Honda;59837;25.07.2010;LPG;Kombi;Szary;Mazowieckie;296420;Serwisowany w ASO;Automatyczna
+783;Kia;59715;30.12.2023;LPG;Kombi;Zielony;Podkarpackie;190447;Serwisowany w ASO;Manualna
+784;Chrysler;34285;28.07.2010;Olej napedowy;Hatchback;Niebieski;Opolskie;290715;Serwisowany w ASO;Automatyczna
+785;Aston Martin;104738;29.10.2022;Olej napedowy;Hatchback;Biały;Mazowieckie;162710;Bezwypadkowy;Manualna
+786;Chevrolet;121798;17.06.2023;Olej napedowy;Hatchback;Żółty;Lubelskie;89338;Pierwszy własciciel;Manualna
+787;Peugeot;66183;02.08.2019;LPG;Hatchback;Różowy;Zachodniopomorskie;194867;Serwisowany w ASO;Automatyczna
+788;Volswagen;108032;28.01.2020;Benzyna;Hatchback;Pomarańczowy;Mazowieckie;100864;Pierwszy własciciel;Manualna
+789;Honda;34025;28.03.2017;Olej napedowy;Kombi;Beżowy;Wielkopolskie;232711;Pierwszy własciciel;Manualna
+790;Audi;124816;23.04.2013;Olej napedowy;Kombi;Niebieski;Warmińsko-mazurskie;120783;Bezwypadkowy;Automatyczna
+791;Daewoo;28449;28.08.2014;LPG;Sedan;Czarny;Podkarpackie;50003;Pierwszy własciciel;Automatyczna
+792;Dacia;33216;18.12.2017;LPG;Sedan;Beżowy;Kujawsko-pomorskie;113669;Garażowany;Automatyczna
+793;Daewoo;126665;29.10.2010;LPG;Kombi;Czerwony;Wielkopolskie;262975;Serwisowany w ASO;Automatyczna
+794;Mercedes;68916;22.09.2020;LPG;Sedan;Biały;Opolskie;206305;Bezwypadkowy;Manualna
+795;BMW;122634;05.03.2019;Olej napedowy;Kombi;Złoty;Małopolskie;99180;Bezwypadkowy;Automatyczna
+796;BMW;106440;12.07.2016;LPG;Sedan;Biały;Podlaskie;56732;Serwisowany w ASO;Manualna
+797;Skoda;21791;06.10.2020;Olej napedowy;Sedan;Brązowy;Warmińsko-mazurskie;136890;Pierwszy własciciel;Automatyczna
+798;Kia;111739;20.06.2023;LPG;Hatchback;Granatowy;Podkarpackie;104175;Garażowany;Manualna
+799;Daewoo;23702;23.04.2020;Olej napedowy;Hatchback;Czarny;Opolskie;155307;Bezwypadkowy;Manualna
